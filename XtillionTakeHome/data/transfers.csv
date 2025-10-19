@@ -1,0 +1,528 @@
+sender_id,recipient_id,amount,date,Year,Month,Quarter,Sender City,Sender Country,Sender Email,Receiver City,Receiver Country,Receiver email
+926,531,70.47,2022-01-07,2022,January,2022-Q1,San Francisco,USA,Ann.John@example.com,San Francisco,USA,Jake.Salazar@example.com
+280,735,21.88,2022-01-10,2022,January,2022-Q1,San Francisco,USA,Zac.Wagner@example.com,Los Angeles,USA,Shane.Wheeler@example.com
+571,737,44.68,2022-01-13,2022,January,2022-Q1,San Francisco,USA,Keelan.Thompson@example.com,San Francisco,USA,Kiara.Bell@example.com
+958,945,39.94,2022-01-17,2022,January,2022-Q1,Los Angeles,USA,Luna.Fowler@example.com,Los Angeles,USA,Elisha.Owens@example.com
+373,817,6.98,2022-01-17,2022,January,2022-Q1,Los Angeles,USA,Robbie.Paul@example.com,San Diego,USA,Renee.Mullen@example.com
+965,571,7.81,2022-01-17,2022,January,2022-Q1,Los Angeles,USA,Renee.Arroyo@example.com,San Francisco,USA,Keelan.Thompson@example.com
+678,400,1.35,2022-01-20,2022,January,2022-Q1,Los Angeles,USA,Mustafa.Mason@example.com,Los Angeles,USA,Joanna.Durham@example.com
+960,973,35.81,2022-01-20,2022,January,2022-Q1,San Francisco,USA,Lewis.Mcmahon@example.com,San Diego,USA,Jean.Winters@example.com
+144,177,67.75,2022-01-26,2022,January,2022-Q1,San Francisco,USA,Emelia.Page@example.com,San Diego,USA,Hassan.Kemp@example.com
+435,870,85.26,2022-01-31,2022,January,2022-Q1,Los Angeles,USA,Jorge.Hebert@example.com,Los Angeles,USA,Stacey.Manning@example.com
+899,98,78.96,2022-02-08,2022,February,2022-Q1,San Francisco,USA,Frankie.Jenkins@example.com,San Francisco,USA,Traci.Banks@example.com
+570,84,1.0,2022-02-09,2022,February,2022-Q1,San Diego,USA,Vinnie.Schwartz@example.com,San Francisco,USA,Safia.Ayers@example.com
+699,931,39.03,2022-02-10,2022,February,2022-Q1,Los Angeles,USA,Jonathan.Klein@example.com,San Diego,USA,Tori.Rowland@example.com
+958,961,26.79,2022-02-11,2022,February,2022-Q1,Los Angeles,USA,Luna.Fowler@example.com,Los Angeles,USA,Tobias.Schultz@example.com
+871,706,12.13,2022-02-13,2022,February,2022-Q1,San Diego,USA,Ronnie.Burch@example.com,Los Angeles,USA,Elisha.Garza@example.com
+308,973,7.76,2022-02-14,2022,February,2022-Q1,Los Angeles,USA,Noah.Benton@example.com,San Diego,USA,Jean.Winters@example.com
+686,882,14.93,2022-02-16,2022,February,2022-Q1,San Diego,USA,Mohamed.Miller@example.com,Los Angeles,USA,Josie.Holt@example.com
+751,915,22.27,2022-02-17,2022,February,2022-Q1,San Diego,USA,Holly.Dillon@example.com,San Francisco,USA,Barry.Buck@example.com
+919,538,23.74,2022-02-18,2022,February,2022-Q1,San Francisco,USA,Ayesha.Underwood@example.com,Los Angeles,USA,Tristan.Valdez@example.com
+111,104,7.4,2022-02-20,2022,February,2022-Q1,San Francisco,USA,Harriett.Mccoy@example.com,San Diego,USA,Chelsea.Wyatt@example.com
+931,187,13.75,2022-02-20,2022,February,2022-Q1,San Diego,USA,Tori.Rowland@example.com,San Francisco,USA,Andre.Long@example.com
+938,452,20.19,2022-02-22,2022,February,2022-Q1,San Diego,USA,Alisha.Hoover@example.com,Los Angeles,USA,Iqra.Kelly@example.com
+814,425,28.96,2022-02-22,2022,February,2022-Q1,Los Angeles,USA,Demi.Patel@example.com,San Francisco,USA,Ines.Davis@example.com
+979,830,45.17,2022-02-22,2022,February,2022-Q1,San Diego,USA,Myrtle.Bradford@example.com,San Francisco,USA,Adem.Mccoy@example.com
+322,64,11.62,2022-02-23,2022,February,2022-Q1,San Francisco,USA,Melissa.Harding@example.com,San Francisco,USA,Jason.Snyder@example.com
+915,676,7.51,2022-02-25,2022,February,2022-Q1,San Francisco,USA,Barry.Buck@example.com,San Francisco,USA,Oliwia.Harvey@example.com
+915,958,20.82,2022-02-28,2022,February,2022-Q1,San Francisco,USA,Barry.Buck@example.com,Los Angeles,USA,Luna.Fowler@example.com
+430,518,40.34,2022-03-02,2022,March,2022-Q1,San Diego,USA,Huw.Pearson@example.com,Los Angeles,USA,Mabel.Pace@example.com
+820,719,89.06,2022-03-04,2022,March,2022-Q1,San Diego,USA,Wilbur.Hicks@example.com,San Francisco,USA,Marnie.White@example.com
+852,916,18.04,2022-03-06,2022,March,2022-Q1,San Francisco,USA,Evelyn.Cross@example.com,San Francisco,USA,Mya.Ho@example.com
+570,105,33.74,2022-03-07,2022,March,2022-Q1,San Diego,USA,Vinnie.Schwartz@example.com,San Diego,USA,Franklin.Conway@example.com
+385,954,4.36,2022-03-11,2022,March,2022-Q1,Los Angeles,USA,Olivia.Slater@example.com,Los Angeles,USA,Aston.Villegas@example.com
+454,588,9.33,2022-03-18,2022,March,2022-Q1,San Diego,USA,Zuzanna.Moody@example.com,Los Angeles,USA,Miranda.Cain@example.com
+516,890,13.79,2022-03-18,2022,March,2022-Q1,San Francisco,USA,Kate.Key@example.com,Los Angeles,USA,Ahmad.Landry@example.com
+981,366,12.47,2022-03-19,2022,March,2022-Q1,San Diego,USA,Gwen.Norris@example.com,San Francisco,USA,Maxwell.Lee@example.com
+862,947,44.65,2022-03-25,2022,March,2022-Q1,Los Angeles,USA,Alexandros.Ryan@example.com,San Diego,USA,Isra.Burgess@example.com
+956,936,34.9,2022-03-27,2022,March,2022-Q1,Los Angeles,USA,Zakariya.Stuart@example.com,San Diego,USA,Ted.Wiggins@example.com
+83,1000,19.55,2022-04-01,2022,April,2022-Q2,San Francisco,USA,Zachery.Brennan@example.com,San Francisco,USA,Simeon.Mccall@example.com
+258,926,3.49,2022-04-02,2022,April,2022-Q2,San Diego,USA,Felicity.Tran@example.com,San Francisco,USA,Ann.John@example.com
+570,931,29.26,2022-04-03,2022,April,2022-Q2,San Diego,USA,Vinnie.Schwartz@example.com,San Diego,USA,Tori.Rowland@example.com
+924,915,56.23,2022-04-05,2022,April,2022-Q2,San Francisco,USA,Kendra.Francis@example.com,San Francisco,USA,Barry.Buck@example.com
+960,945,9.36,2022-04-10,2022,April,2022-Q2,San Francisco,USA,Lewis.Mcmahon@example.com,Los Angeles,USA,Elisha.Owens@example.com
+960,802,29.23,2022-04-26,2022,April,2022-Q2,San Francisco,USA,Lewis.Mcmahon@example.com,San Diego,USA,Eleni.Maxwell@example.com
+979,815,47.61,2022-05-01,2022,May,2022-Q2,San Diego,USA,Myrtle.Bradford@example.com,San Diego,USA,Aurora.Andrews@example.com
+986,979,56.93,2022-05-05,2022,May,2022-Q2,Los Angeles,USA,Rosanna.Dyer@example.com,San Diego,USA,Myrtle.Bradford@example.com
+28,907,12.86,2022-05-06,2022,May,2022-Q2,San Francisco,USA,Cassie.Molina@example.com,San Diego,USA,Samia.Bradley@example.com
+94,76,15.65,2022-05-09,2022,May,2022-Q2,Los Angeles,USA,Mia.Horne@example.com,Los Angeles,USA,Taha.Casey@example.com
+960,236,4.95,2022-05-11,2022,May,2022-Q2,San Francisco,USA,Lewis.Mcmahon@example.com,Los Angeles,USA,Gloria.Mason@example.com
+457,421,52.87,2022-05-14,2022,May,2022-Q2,San Diego,USA,Ffion.Brandt@example.com,San Diego,USA,Juliet.Gordon@example.com
+882,472,79.59,2022-05-16,2022,May,2022-Q2,Los Angeles,USA,Josie.Holt@example.com,Los Angeles,USA,Colby.Baxter@example.com
+272,966,79.49,2022-05-19,2022,May,2022-Q2,Los Angeles,USA,Findlay.Velasquez@example.com,Los Angeles,USA,Marjorie.Munoz@example.com
+957,279,33.96,2022-05-21,2022,May,2022-Q2,San Francisco,USA,Effie.Jordan@example.com,San Francisco,USA,Annabelle.Atkinson@example.com
+431,472,62.4,2022-05-21,2022,May,2022-Q2,San Francisco,USA,Alannah.Vaughn@example.com,Los Angeles,USA,Colby.Baxter@example.com
+66,342,45.42,2022-05-22,2022,May,2022-Q2,San Francisco,USA,Aisha.Webb@example.com,Los Angeles,USA,Alfred.Stuart@example.com
+640,1000,8.46,2022-05-25,2022,May,2022-Q2,San Diego,USA,Nadia.Wyatt@example.com,San Francisco,USA,Simeon.Mccall@example.com
+414,273,19.97,2022-05-28,2022,May,2022-Q2,Los Angeles,USA,Ahmed.Mcpherson@example.com,Los Angeles,USA,Georgiana.Horton@example.com
+781,461,50.19,2022-05-29,2022,May,2022-Q2,Los Angeles,USA,Mari.Phillips@example.com,Los Angeles,USA,Leila.Hawkins@example.com
+430,220,17.46,2022-05-31,2022,May,2022-Q2,San Diego,USA,Huw.Pearson@example.com,San Francisco,USA,Sahar.Kim@example.com
+110,258,1.0,2022-06-05,2022,June,2022-Q2,San Francisco,USA,Pearl.Perez@example.com,San Diego,USA,Felicity.Tran@example.com
+833,813,126.24,2022-06-05,2022,June,2022-Q2,New York,USA,Hayley.Montoya@example.com,New York,USA,Arthur.Hebert@example.com
+878,881,9.88,2022-06-07,2022,June,2022-Q2,Los Angeles,USA,Mateo.Francis@example.com,San Francisco,USA,Kathleen.Carter@example.com
+494,568,44.81,2022-06-08,2022,June,2022-Q2,San Francisco,USA,Bryan.Caldwell@example.com,San Francisco,USA,Zaki.Mcpherson@example.com
+289,535,16.33,2022-06-08,2022,June,2022-Q2,New York,USA,Adele.Cantrell@example.com,New York,USA,Carolyn.Pittman@example.com
+452,947,31.89,2022-06-09,2022,June,2022-Q2,Los Angeles,USA,Iqra.Kelly@example.com,San Diego,USA,Isra.Burgess@example.com
+820,648,62.17,2022-06-09,2022,June,2022-Q2,San Diego,USA,Wilbur.Hicks@example.com,San Francisco,USA,Luna.Levy@example.com
+11,171,25.66,2022-06-10,2022,June,2022-Q2,New York,USA,Moshe.Colon@example.com,New York,USA,Patrick.Morse@example.com
+979,561,44.62,2022-06-13,2022,June,2022-Q2,San Diego,USA,Myrtle.Bradford@example.com,Los Angeles,USA,Miya.Warner@example.com
+827,254,7.83,2022-06-13,2022,June,2022-Q2,Los Angeles,USA,Laurence.Graves@example.com,San Francisco,USA,Bonnie.Woods@example.com
+259,965,68.0,2022-06-15,2022,June,2022-Q2,San Francisco,USA,Lily.Chan@example.com,Los Angeles,USA,Renee.Arroyo@example.com
+387,605,10.9,2022-06-15,2022,June,2022-Q2,New York,USA,Jesse.Perry@example.com,New York,USA,Earl.Hobbs@example.com
+49,212,33.08,2022-06-26,2022,June,2022-Q2,San Diego,USA,Idris.Proctor@example.com,San Francisco,USA,Angela.Lynch@example.com
+671,160,35.34,2022-06-26,2022,June,2022-Q2,New York,USA,Alexander.Terry@example.com,New York,USA,Alessia.Watts@example.com
+48,461,18.51,2022-06-29,2022,June,2022-Q2,Los Angeles,USA,Esther.Mccall@example.com,Los Angeles,USA,Leila.Hawkins@example.com
+629,272,43.39,2022-07-02,2022,July,2022-Q3,San Francisco,USA,Mae.Castro@example.com,Los Angeles,USA,Findlay.Velasquez@example.com
+916,960,39.94,2022-07-06,2022,July,2022-Q3,San Francisco,USA,Mya.Ho@example.com,San Francisco,USA,Lewis.Mcmahon@example.com
+206,747,2.79,2022-07-09,2022,July,2022-Q3,Los Angeles,USA,Azaan.Roth@example.com,San Francisco,USA,Tia.Ali@example.com
+177,480,34.74,2022-07-11,2022,July,2022-Q3,San Diego,USA,Hassan.Kemp@example.com,Los Angeles,USA,Abu.Miranda@example.com
+930,933,11.02,2022-07-13,2022,July,2022-Q3,San Francisco,USA,Christina.Mays@example.com,San Diego,USA,Kaine.Blankenship@example.com
+915,743,19.17,2022-07-15,2022,July,2022-Q3,San Francisco,USA,Barry.Buck@example.com,San Diego,USA,Wendy.Mcclure@example.com
+810,206,17.94,2022-07-22,2022,July,2022-Q3,San Francisco,USA,Syed.Mooney@example.com,Los Angeles,USA,Azaan.Roth@example.com
+786,408,19.72,2022-07-24,2022,July,2022-Q3,San Francisco,USA,Earl.Vargas@example.com,San Francisco,USA,Adnan.Moore@example.com
+22,976,19.84,2022-07-27,2022,July,2022-Q3,San Francisco,USA,Gerald.Maldonado@example.com,San Diego,USA,Marnie.Mayo@example.com
+279,852,71.71,2022-07-27,2022,July,2022-Q3,San Francisco,USA,Annabelle.Atkinson@example.com,San Francisco,USA,Evelyn.Cross@example.com
+966,827,14.89,2022-07-28,2022,July,2022-Q3,Los Angeles,USA,Marjorie.Munoz@example.com,Los Angeles,USA,Laurence.Graves@example.com
+735,888,3.73,2022-07-29,2022,July,2022-Q3,Los Angeles,USA,Shane.Wheeler@example.com,San Diego,USA,Liana.Baldwin@example.com
+938,844,52.62,2022-07-29,2022,July,2022-Q3,San Diego,USA,Alisha.Hoover@example.com,Los Angeles,USA,Marnie.Sheppard@example.com
+936,530,25.9,2022-07-30,2022,July,2022-Q3,San Diego,USA,Ted.Wiggins@example.com,San Francisco,USA,Isobelle.Davidson@example.com
+251,132,11.67,2022-08-01,2022,August,2022-Q3,New York,USA,Grayson.Rasmussen@example.com,New York,USA,Tina.Powell@example.com
+945,945,78.81,2022-08-19,2022,August,2022-Q3,Los Angeles,USA,Elisha.Owens@example.com,Los Angeles,USA,Elisha.Owens@example.com
+856,238,19.07,2022-08-22,2022,August,2022-Q3,Los Angeles,USA,Maisie.Cunningham@example.com,San Francisco,USA,Ashleigh.Trevino@example.com
+463,903,52.03,2022-08-23,2022,August,2022-Q3,San Diego,USA,Tristan.Lambert@example.com,San Francisco,USA,Dominik.Velez@example.com
+961,515,61.9,2022-08-25,2022,August,2022-Q3,Los Angeles,USA,Tobias.Schultz@example.com,Los Angeles,USA,Gerald.Carver@example.com
+490,914,87.3,2022-08-25,2022,August,2022-Q3,San Francisco,USA,Rhonda.Coffey@example.com,Los Angeles,USA,Nancy.Sharp@example.com
+979,656,6.39,2022-08-25,2022,August,2022-Q3,San Diego,USA,Myrtle.Bradford@example.com,Los Angeles,USA,Tomos.Velez@example.com
+286,640,53.81,2022-08-26,2022,August,2022-Q3,Los Angeles,USA,Cordelia.Marquez@example.com,San Diego,USA,Nadia.Wyatt@example.com
+387,971,37.75,2022-08-30,2022,August,2022-Q3,New York,USA,Jesse.Perry@example.com,New York,USA,Kyran.Duncan@example.com
+885,670,18.73,2022-09-01,2022,September,2022-Q3,Los Angeles,USA,Omar.Ashley@example.com,San Diego,USA,Jacob.Patton@example.com
+749,438,23.49,2022-09-05,2022,September,2022-Q3,Chicago,USA,Tobias.Beltran@example.com,Chicago,USA,Leslie.Harrington@example.com
+28,491,87.13,2022-09-06,2022,September,2022-Q3,San Francisco,USA,Cassie.Molina@example.com,San Francisco,USA,Ehsan.Anthony@example.com
+912,888,31.92,2022-09-09,2022,September,2022-Q3,Los Angeles,USA,Junaid.Fletcher@example.com,San Diego,USA,Liana.Baldwin@example.com
+440,615,10.46,2022-09-10,2022,September,2022-Q3,San Francisco,USA,Dean.Koch@example.com,San Diego,USA,Katelyn.Collins@example.com
+535,968,21.17,2022-09-14,2022,September,2022-Q3,New York,USA,Carolyn.Pittman@example.com,New York,USA,Roosevelt.Huff@example.com
+191,672,28.4,2022-09-14,2022,September,2022-Q3,Chicago,USA,Damon.Bullock@example.com,Chicago,USA,Kane.Huff@example.com
+846,908,49.61,2022-09-15,2022,September,2022-Q3,San Diego,USA,John.Mason@example.com,Los Angeles,USA,Nataniel.Glenn@example.com
+75,932,13.06,2022-09-16,2022,September,2022-Q3,San Diego,USA,Marjorie.Shields@example.com,San Francisco,USA,Ayden.Valentine@example.com
+279,848,3.02,2022-09-18,2022,September,2022-Q3,San Francisco,USA,Annabelle.Atkinson@example.com,Los Angeles,USA,Charis.Bray@example.com
+367,102,83.56,2022-09-18,2022,September,2022-Q3,Chicago,USA,Eryn.Bowers@example.com,Chicago,USA,Alina.Walls@example.com
+533,234,41.18,2022-09-20,2022,September,2022-Q3,New York,USA,Joshua.Holt@example.com,New York,USA,Esmee.Harmon@example.com
+940,388,69.61,2022-09-25,2022,September,2022-Q3,Los Angeles,USA,Marilyn.Hart@example.com,Los Angeles,USA,Yousef.Andrews@example.com
+748,247,76.5,2022-10-03,2022,October,2022-Q4,New York,USA,Montgomery.Davila@example.com,New York,USA,Douglas.Lozano@example.com
+562,770,79.95,2022-10-08,2022,October,2022-Q4,San Francisco,USA,Marjorie.Morrison@example.com,Los Angeles,USA,Jannat.Landry@example.com
+674,885,12.32,2022-10-10,2022,October,2022-Q4,San Francisco,USA,Mahir.Cooper@example.com,Los Angeles,USA,Omar.Ashley@example.com
+296,683,10.0,2022-10-11,2022,October,2022-Q4,San Francisco,USA,Steven.Reid@example.com,San Francisco,USA,Irene.Kim@example.com
+663,187,35.98,2022-10-14,2022,October,2022-Q4,Los Angeles,USA,Rowan.Acevedo@example.com,San Francisco,USA,Andre.Long@example.com
+144,575,29.51,2022-10-17,2022,October,2022-Q4,San Francisco,USA,Emelia.Page@example.com,San Francisco,USA,Casper.Padilla@example.com
+459,489,36.37,2022-10-17,2022,October,2022-Q4,Los Angeles,USA,Hector.Lam@example.com,San Francisco,USA,Khadija.Dunlap@example.com
+916,377,17.61,2022-10-20,2022,October,2022-Q4,San Francisco,USA,Mya.Ho@example.com,Los Angeles,USA,Phyllis.Gill@example.com
+283,184,42.04,2022-10-20,2022,October,2022-Q4,New York,USA,Autumn.Hensley@example.com,New York,USA,David.Bridges@example.com
+841,765,39.2,2022-10-21,2022,October,2022-Q4,San Francisco,USA,Khalid.Davies@example.com,San Francisco,USA,Amir.Blackwell@example.com
+255,328,5.42,2022-10-21,2022,October,2022-Q4,San Diego,USA,Miriam.Pacheco@example.com,San Diego,USA,Otis.Pittman@example.com
+251,481,12.91,2022-10-24,2022,October,2022-Q4,New York,USA,Grayson.Rasmussen@example.com,New York,USA,Sophia.Randolph@example.com
+242,836,35.9,2022-10-28,2022,October,2022-Q4,New York,USA,Hazel.Joseph@example.com,New York,USA,Sasha.Ponce@example.com
+713,718,63.51,2022-10-31,2022,October,2022-Q4,Chicago,USA,Ameer.Orr@example.com,Chicago,USA,Esme.Reeves@example.com
+979,80,81.89,2022-11-06,2022,November,2022-Q4,San Diego,USA,Myrtle.Bradford@example.com,San Francisco,USA,Cheryl.Owens@example.com
+973,540,43.94,2022-11-08,2022,November,2022-Q4,San Diego,USA,Jean.Winters@example.com,Los Angeles,USA,Savannah.Boone@example.com
+755,936,2.78,2022-11-08,2022,November,2022-Q4,Los Angeles,USA,Amie.Hood@example.com,San Diego,USA,Ted.Wiggins@example.com
+660,708,30.12,2022-11-09,2022,November,2022-Q4,Chicago,USA,Zayn.Kaufman@example.com,Chicago,USA,Enzo.Whitney@example.com
+289,756,78.3,2022-11-11,2022,November,2022-Q4,New York,USA,Adele.Cantrell@example.com,New York,USA,Herbie.Huber@example.com
+47,163,14.22,2022-11-14,2022,November,2022-Q4,New York,USA,Celia.Terry@example.com,New York,USA,Talha.Austin@example.com
+879,556,63.95,2022-11-17,2022,November,2022-Q4,New York,USA,Lucy.Fuentes@example.com,New York,USA,Zayn.Webb@example.com
+374,515,78.1,2022-11-18,2022,November,2022-Q4,San Francisco,USA,Sara.Harris@example.com,Los Angeles,USA,Gerald.Carver@example.com
+986,737,2.44,2022-11-19,2022,November,2022-Q4,Los Angeles,USA,Rosanna.Dyer@example.com,San Francisco,USA,Kiara.Bell@example.com
+950,813,52.8,2022-11-19,2022,November,2022-Q4,New York,USA,Meredith.Reyes@example.com,New York,USA,Arthur.Hebert@example.com
+63,621,22.57,2022-11-20,2022,November,2022-Q4,San Diego,USA,Johnathan.Berger@example.com,San Diego,USA,Kiana.Carter@example.com
+964,1000,32.3,2022-11-21,2022,November,2022-Q4,San Francisco,USA,Colby.Harding@example.com,San Francisco,USA,Simeon.Mccall@example.com
+854,273,42.99,2022-11-25,2022,November,2022-Q4,San Diego,USA,Ffion.Knight@example.com,Los Angeles,USA,Georgiana.Horton@example.com
+48,694,77.19,2022-11-26,2022,November,2022-Q4,Los Angeles,USA,Esther.Mccall@example.com,Los Angeles,USA,Richard.Pope@example.com
+472,600,18.59,2022-11-29,2022,November,2022-Q4,Los Angeles,USA,Colby.Baxter@example.com,San Francisco,USA,Bill.Jacobs@example.com
+678,846,70.92,2022-11-30,2022,November,2022-Q4,Los Angeles,USA,Mustafa.Mason@example.com,San Diego,USA,John.Mason@example.com
+976,864,33.41,2022-12-01,2022,December,2022-Q4,San Diego,USA,Marnie.Mayo@example.com,Los Angeles,USA,Asia.Holloway@example.com
+461,934,5.31,2022-12-01,2022,December,2022-Q4,Los Angeles,USA,Leila.Hawkins@example.com,San Diego,USA,Alessandro.French@example.com
+861,937,64.74,2022-12-01,2022,December,2022-Q4,New York,USA,Deacon.Boone@example.com,New York,USA,Nina.Mathews@example.com
+960,902,16.46,2022-12-05,2022,December,2022-Q4,San Francisco,USA,Lewis.Mcmahon@example.com,San Francisco,USA,Mitchell.Murray@example.com
+992,102,78.86,2022-12-06,2022,December,2022-Q4,Chicago,USA,Sebastian.Pierce@example.com,Chicago,USA,Alina.Walls@example.com
+267,812,35.92,2022-12-07,2022,December,2022-Q4,San Diego,USA,Jake.Spencer@example.com,San Francisco,USA,Saad.Ali@example.com
+221,831,1.59,2022-12-09,2022,December,2022-Q4,San Francisco,USA,Emmie.Schmidt@example.com,Los Angeles,USA,Angel.Browning@example.com
+61,487,6.81,2022-12-09,2022,December,2022-Q4,San Francisco,USA,Honor.Jacobson@example.com,San Francisco,USA,Bernard.Moran@example.com
+110,830,12.7,2022-12-12,2022,December,2022-Q4,San Francisco,USA,Pearl.Perez@example.com,San Francisco,USA,Adem.Mccoy@example.com
+554,877,33.99,2022-12-13,2022,December,2022-Q4,San Francisco,USA,Tyrell.Holman@example.com,San Diego,USA,Drew.Orozco@example.com
+196,850,16.16,2022-12-14,2022,December,2022-Q4,Chicago,USA,Alanna.Stephens@example.com,Chicago,USA,Taylor.Woods@example.com
+984,345,49.27,2022-12-15,2022,December,2022-Q4,Chicago,USA,Adrian.Joseph@example.com,Chicago,USA,Hannah.Zuniga@example.com
+331,829,13.73,2022-12-17,2022,December,2022-Q4,San Francisco,USA,Lia.Hudson@example.com,Los Angeles,USA,Ismaeel.Schmidt@example.com
+242,266,96.5,2022-12-18,2022,December,2022-Q4,New York,USA,Hazel.Joseph@example.com,New York,USA,Gregory.Strong@example.com
+314,927,18.87,2022-12-18,2022,December,2022-Q4,Chicago,USA,Neve.Hendrix@example.com,Chicago,USA,Alejandro.Kent@example.com
+981,230,1.0,2022-12-22,2022,December,2022-Q4,San Diego,USA,Gwen.Norris@example.com,San Francisco,USA,Hana.Barr@example.com
+137,238,38.32,2022-12-30,2022,December,2022-Q4,San Diego,USA,India.Simmons@example.com,San Francisco,USA,Ashleigh.Trevino@example.com
+51,140,1.0,2023-01-04,2023,January,2023-Q1,Los Angeles,USA,Herman.Munoz@example.com,San Francisco,USA,Gary.Hutchinson@example.com
+630,756,94.64,2023-01-04,2023,January,2023-Q1,New York,USA,Harold.Sharpe@example.com,New York,USA,Herbie.Huber@example.com
+537,37,1.52,2023-01-05,2023,January,2023-Q1,Toronto,Canada,Bronwyn.Hanna@example.com,Toronto,Canada,Lili.Schroeder@example.com
+722,963,122.3,2023-01-06,2023,January,2023-Q1,Chicago,USA,Nannie.Hunt@example.com,Chicago,USA,Billy.Norton@example.com
+687,262,57.67,2023-01-07,2023,January,2023-Q1,Toronto,Canada,Thea.Suarez@example.com,Toronto,Canada,Everly.Cortez@example.com
+617,607,22.93,2023-01-08,2023,January,2023-Q1,New York,USA,Beau.Duran@example.com,New York,USA,Bibi.Roberts@example.com
+421,267,21.65,2023-01-09,2023,January,2023-Q1,San Diego,USA,Juliet.Gordon@example.com,San Diego,USA,Jake.Spencer@example.com
+966,193,25.04,2023-01-10,2023,January,2023-Q1,Los Angeles,USA,Marjorie.Munoz@example.com,Los Angeles,USA,Susie.Gibbons@example.com
+264,620,47.19,2023-01-12,2023,January,2023-Q1,Toronto,Canada,Maximillian.Atkins@example.com,Toronto,Canada,Neo.Lara@example.com
+147,380,6.24,2023-01-12,2023,January,2023-Q1,Toronto,Canada,Eleanor.Mcintosh@example.com,Toronto,Canada,James.Warner@example.com
+807,399,68.15,2023-01-13,2023,January,2023-Q1,San Francisco,USA,Polly.Mendez@example.com,Los Angeles,USA,Nathan.Pearce@example.com
+202,846,72.79,2023-01-14,2023,January,2023-Q1,San Francisco,USA,Kabir.Stewart@example.com,San Diego,USA,John.Mason@example.com
+902,939,13.01,2023-01-15,2023,January,2023-Q1,San Francisco,USA,Mitchell.Murray@example.com,San Diego,USA,Alyssa.Bradshaw@example.com
+925,976,37.77,2023-01-18,2023,January,2023-Q1,San Diego,USA,Yasmine.Scott@example.com,San Diego,USA,Marnie.Mayo@example.com
+620,108,23.77,2023-01-18,2023,January,2023-Q1,Toronto,Canada,Neo.Lara@example.com,Toronto,Canada,Mohsin.Tucker@example.com
+878,907,75.24,2023-01-19,2023,January,2023-Q1,Los Angeles,USA,Mateo.Francis@example.com,San Diego,USA,Samia.Bradley@example.com
+833,607,47.77,2023-01-19,2023,January,2023-Q1,New York,USA,Hayley.Montoya@example.com,New York,USA,Bibi.Roberts@example.com
+289,990,122.1,2023-01-22,2023,January,2023-Q1,New York,USA,Adele.Cantrell@example.com,New York,USA,Juliette.Luna@example.com
+455,749,28.53,2023-01-22,2023,January,2023-Q1,Chicago,USA,Margaret.Woods@example.com,Chicago,USA,Tobias.Beltran@example.com
+769,885,15.39,2023-01-25,2023,January,2023-Q1,San Francisco,USA,Marilyn.Scott@example.com,Los Angeles,USA,Omar.Ashley@example.com
+970,660,82.99,2023-01-25,2023,January,2023-Q1,Chicago,USA,Qasim.Bullock@example.com,Chicago,USA,Zayn.Kaufman@example.com
+984,997,30.56,2023-01-25,2023,January,2023-Q1,Chicago,USA,Adrian.Joseph@example.com,Chicago,USA,Sam.Arias@example.com
+739,316,40.22,2023-01-26,2023,January,2023-Q1,New York,USA,Lewis.Brooks@example.com,New York,USA,Mathilda.Abbott@example.com
+930,902,13.13,2023-01-28,2023,January,2023-Q1,San Francisco,USA,Christina.Mays@example.com,San Francisco,USA,Mitchell.Murray@example.com
+881,415,4.19,2023-01-30,2023,January,2023-Q1,San Francisco,USA,Kathleen.Carter@example.com,San Diego,USA,Christopher.Pollard@example.com
+960,118,53.0,2023-02-03,2023,February,2023-Q1,San Francisco,USA,Lewis.Mcmahon@example.com,Los Angeles,USA,Sean.Bolton@example.com
+926,965,45.91,2023-02-06,2023,February,2023-Q1,San Francisco,USA,Ann.John@example.com,Los Angeles,USA,Renee.Arroyo@example.com
+986,258,6.97,2023-02-06,2023,February,2023-Q1,Los Angeles,USA,Rosanna.Dyer@example.com,San Diego,USA,Felicity.Tran@example.com
+351,920,23.69,2023-02-06,2023,February,2023-Q1,San Diego,USA,Keaton.Ortiz@example.com,San Francisco,USA,Kamil.Bernard@example.com
+875,939,12.4,2023-02-07,2023,February,2023-Q1,San Francisco,USA,Cayden.Walls@example.com,San Diego,USA,Alyssa.Bradshaw@example.com
+237,981,1.07,2023-02-13,2023,February,2023-Q1,San Francisco,USA,Carter.Coleman@example.com,San Diego,USA,Gwen.Norris@example.com
+976,682,32.26,2023-02-14,2023,February,2023-Q1,San Diego,USA,Marnie.Mayo@example.com,Los Angeles,USA,Laura.Valdez@example.com
+902,914,13.81,2023-02-14,2023,February,2023-Q1,San Francisco,USA,Mitchell.Murray@example.com,Los Angeles,USA,Nancy.Sharp@example.com
+870,828,3.6,2023-02-15,2023,February,2023-Q1,Los Angeles,USA,Stacey.Manning@example.com,San Diego,USA,Nora.Donaldson@example.com
+82,137,15.36,2023-02-17,2023,February,2023-Q1,San Diego,USA,Casper.Freeman@example.com,San Diego,USA,India.Simmons@example.com
+878,655,49.35,2023-02-17,2023,February,2023-Q1,Los Angeles,USA,Mateo.Francis@example.com,San Francisco,USA,Hari.Everett@example.com
+582,521,7.4,2023-02-17,2023,February,2023-Q1,Los Angeles,USA,Yusra.Norman@example.com,San Francisco,USA,Khalid.Mclaughlin@example.com
+641,466,12.63,2023-02-20,2023,February,2023-Q1,Toronto,Canada,Kacie.Morse@example.com,Toronto,Canada,Charis.Cotton@example.com
+223,856,50.51,2023-02-21,2023,February,2023-Q1,San Francisco,USA,Rupert.Mejia@example.com,Los Angeles,USA,Maisie.Cunningham@example.com
+147,593,6.14,2023-02-22,2023,February,2023-Q1,Toronto,Canada,Eleanor.Mcintosh@example.com,Toronto,Canada,Danyal.Lang@example.com
+1000,69,21.2,2023-02-23,2023,February,2023-Q1,San Francisco,USA,Simeon.Mccall@example.com,San Francisco,USA,Saoirse.Keller@example.com
+163,879,4.43,2023-02-27,2023,February,2023-Q1,New York,USA,Talha.Austin@example.com,New York,USA,Lucy.Fuentes@example.com
+900,314,96.19,2023-02-27,2023,February,2023-Q1,Chicago,USA,Zane.Oconnor@example.com,Chicago,USA,Neve.Hendrix@example.com
+154,242,15.28,2023-02-28,2023,February,2023-Q1,New York,USA,Thomas.English@example.com,New York,USA,Hazel.Joseph@example.com
+259,157,44.69,2023-03-01,2023,March,2023-Q1,San Francisco,USA,Lily.Chan@example.com,San Diego,USA,Aimee.Duffy@example.com
+369,204,29.11,2023-03-01,2023,March,2023-Q1,Toronto,Canada,Reggie.Strong@example.com,Toronto,Canada,Philippa.Webster@example.com
+722,314,39.85,2023-03-05,2023,March,2023-Q1,Chicago,USA,Nannie.Hunt@example.com,Chicago,USA,Neve.Hendrix@example.com
+374,110,3.38,2023-03-07,2023,March,2023-Q1,San Francisco,USA,Sara.Harris@example.com,San Francisco,USA,Pearl.Perez@example.com
+957,940,60.7,2023-03-08,2023,March,2023-Q1,San Francisco,USA,Effie.Jordan@example.com,Los Angeles,USA,Marilyn.Hart@example.com
+64,598,11.55,2023-03-11,2023,March,2023-Q1,San Francisco,USA,Jason.Snyder@example.com,Los Angeles,USA,Monica.Bruce@example.com
+956,241,33.0,2023-03-14,2023,March,2023-Q1,Los Angeles,USA,Zakariya.Stuart@example.com,San Diego,USA,Chris.Zimmerman@example.com
+411,405,22.73,2023-03-14,2023,March,2023-Q1,Toronto,Canada,Candice.Hooper@example.com,Toronto,Canada,Cecily.Blaese@example.com
+112,169,71.55,2023-03-17,2023,March,2023-Q1,San Diego,USA,Aiden.Galvan@example.com,San Francisco,USA,Katy.Harrington@example.com
+712,248,10.43,2023-03-17,2023,March,2023-Q1,Toronto,Canada,Bronte.Mendoza@example.com,Toronto,Canada,Bethan.Franco@example.com
+583,555,18.98,2023-03-19,2023,March,2023-Q1,New York,USA,Bryony.Stevens@example.com,New York,USA,Ammar.Floyd@example.com
+441,882,58.55,2023-03-22,2023,March,2023-Q1,San Diego,USA,Conrad.Hanna@example.com,Los Angeles,USA,Josie.Holt@example.com
+710,595,8.35,2023-03-22,2023,March,2023-Q1,San Francisco,USA,Candice.Moyer@example.com,San Diego,USA,Archie.Gregory@example.com
+991,380,51.59,2023-03-25,2023,March,2023-Q1,Toronto,Canada,Marion.Webster@example.com,Toronto,Canada,James.Warner@example.com
+397,753,75.66,2023-03-26,2023,March,2023-Q1,San Diego,USA,Zaynab.Salas@example.com,San Diego,USA,Anais.Ball@example.com
+806,825,5.77,2023-03-27,2023,March,2023-Q1,Montreal,Canada,Miriam.Stuart@example.com,Montreal,Canada,Chiara.Ho@example.com
+932,676,70.99,2023-03-28,2023,March,2023-Q1,San Francisco,USA,Ayden.Valentine@example.com,San Francisco,USA,Oliwia.Harvey@example.com
+127,842,26.11,2023-03-28,2023,March,2023-Q1,Toronto,Canada,Zoya.Giles@example.com,Toronto,Canada,Nancy.Blair@example.com
+749,972,8.84,2023-03-30,2023,March,2023-Q1,Chicago,USA,Tobias.Beltran@example.com,Chicago,USA,Rhiannon.Vaughan@example.com
+973,877,1.67,2023-04-01,2023,April,2023-Q2,San Diego,USA,Jean.Winters@example.com,San Diego,USA,Drew.Orozco@example.com
+566,984,56.83,2023-04-01,2023,April,2023-Q2,Chicago,USA,Cruz.Neal@example.com,Chicago,USA,Adrian.Joseph@example.com
+857,603,46.99,2023-04-04,2023,April,2023-Q2,San Diego,USA,Clementine.Beck@example.com,San Diego,USA,Bilal.Shaffer@example.com
+811,375,73.1,2023-04-04,2023,April,2023-Q2,New York,USA,Dante.Moon@example.com,New York,USA,Brandon.Rangel@example.com
+189,883,24.84,2023-04-06,2023,April,2023-Q2,San Francisco,USA,Darcey.Whitney@example.com,San Francisco,USA,Daniela.James@example.com
+349,528,27.28,2023-04-06,2023,April,2023-Q2,New York,USA,Rachael.Shields@example.com,New York,USA,Md.Booker@example.com
+984,509,42.7,2023-04-06,2023,April,2023-Q2,Chicago,USA,Adrian.Joseph@example.com,Chicago,USA,Lukas.Howard@example.com
+939,926,15.67,2023-04-07,2023,April,2023-Q2,San Diego,USA,Alyssa.Bradshaw@example.com,San Francisco,USA,Ann.John@example.com
+695,369,10.85,2023-04-08,2023,April,2023-Q2,Toronto,Canada,Xander.Levine@example.com,Toronto,Canada,Reggie.Strong@example.com
+712,123,8.49,2023-04-09,2023,April,2023-Q2,Toronto,Canada,Bronte.Mendoza@example.com,Toronto,Canada,Finnian.Fisher@example.com
+249,961,2.97,2023-04-10,2023,April,2023-Q2,Los Angeles,USA,Clementine.Whitaker@example.com,Los Angeles,USA,Tobias.Schultz@example.com
+938,947,61.63,2023-04-16,2023,April,2023-Q2,San Diego,USA,Alisha.Hoover@example.com,San Diego,USA,Isra.Burgess@example.com
+337,561,25.98,2023-04-16,2023,April,2023-Q2,San Francisco,USA,Xavier.Mcguire@example.com,Los Angeles,USA,Miya.Warner@example.com
+185,867,44.37,2023-04-17,2023,April,2023-Q2,Los Angeles,USA,Milton.Carlson@example.com,San Diego,USA,Ioan.Harrington@example.com
+893,797,40.52,2023-04-18,2023,April,2023-Q2,Toronto,Canada,Benjamin.Riddle@example.com,Toronto,Canada,Lilian.Strickland@example.com
+146,615,4.93,2023-04-21,2023,April,2023-Q2,Los Angeles,USA,Edith.Walker@example.com,San Diego,USA,Katelyn.Collins@example.com
+413,913,61.17,2023-04-24,2023,April,2023-Q2,New York,USA,Charlotte.Trevino@example.com,New York,USA,Ricardo.Odling@example.com
+986,408,43.65,2023-04-30,2023,April,2023-Q2,Los Angeles,USA,Rosanna.Dyer@example.com,San Francisco,USA,Adnan.Moore@example.com
+93,242,56.3,2023-04-30,2023,April,2023-Q2,New York,USA,Elif.Khan@example.com,New York,USA,Hazel.Joseph@example.com
+874,439,27.29,2023-05-03,2023,May,2023-Q2,Montreal,Canada,Alasdair.Mckinney@example.com,Montreal,Canada,Leona.Daugherty@example.com
+342,827,45.99,2023-05-04,2023,May,2023-Q2,Los Angeles,USA,Alfred.Stuart@example.com,Los Angeles,USA,Laurence.Graves@example.com
+116,61,62.87,2023-05-09,2023,May,2023-Q2,San Diego,USA,Gerard.Vargas@example.com,San Francisco,USA,Honor.Jacobson@example.com
+270,838,41.36,2023-05-09,2023,May,2023-Q2,New York,USA,Nelson.Huff@example.com,New York,USA,Aisha.Sosa@example.com
+130,923,5.75,2023-05-11,2023,May,2023-Q2,Montreal,Canada,Zohaib.Hartman@example.com,Montreal,Canada,Russell.Long@example.com
+986,66,5.49,2023-05-12,2023,May,2023-Q2,Los Angeles,USA,Rosanna.Dyer@example.com,San Francisco,USA,Aisha.Webb@example.com
+718,972,13.25,2023-05-15,2023,May,2023-Q2,Chicago,USA,Esme.Reeves@example.com,Chicago,USA,Rhiannon.Vaughan@example.com
+325,149,56.12,2023-05-15,2023,May,2023-Q2,Toronto,Canada,Matilda.Griffin@example.com,Toronto,Canada,Abdirahman.Mullen@example.com
+965,162,47.07,2023-05-16,2023,May,2023-Q2,Los Angeles,USA,Renee.Arroyo@example.com,Los Angeles,USA,Martina.Boyle@example.com
+40,320,23.94,2023-05-16,2023,May,2023-Q2,San Francisco,USA,Clara.Bird@example.com,San Francisco,USA,Liberty.Stephenson@example.com
+646,965,27.26,2023-05-17,2023,May,2023-Q2,San Francisco,USA,Brittney.Ruiz@example.com,Los Angeles,USA,Renee.Arroyo@example.com
+685,340,92.9,2023-05-17,2023,May,2023-Q2,New York,USA,Lisa.Mcclain@example.com,New York,USA,Lilly-Rose.Richards@example.com
+172,109,42.44,2023-05-19,2023,May,2023-Q2,Chicago,USA,Nathaniel.Gonzalez@example.com,Chicago,USA,Huw.Valentine@example.com
+118,595,42.37,2023-05-22,2023,May,2023-Q2,Los Angeles,USA,Sean.Bolton@example.com,San Diego,USA,Archie.Gregory@example.com
+916,706,60.28,2023-05-22,2023,May,2023-Q2,San Francisco,USA,Mya.Ho@example.com,Los Angeles,USA,Elisha.Garza@example.com
+965,624,31.37,2023-05-23,2023,May,2023-Q2,Los Angeles,USA,Renee.Arroyo@example.com,San Diego,USA,Nia.Adams@example.com
+224,291,7.94,2023-05-27,2023,May,2023-Q2,Chicago,USA,Lily-Rose.Kaufman@example.com,Chicago,USA,Brooklyn.Gamble@example.com
+543,369,10.87,2023-05-27,2023,May,2023-Q2,Toronto,Canada,Esme.Krueger@example.com,Toronto,Canada,Reggie.Strong@example.com
+662,423,5.7,2023-05-28,2023,May,2023-Q2,Chicago,USA,Anthony.Mccullough@example.com,Chicago,USA,Haaris.Blevins@example.com
+467,64,27.35,2023-05-29,2023,May,2023-Q2,San Francisco,USA,Zubair.Sheppard@example.com,San Francisco,USA,Jason.Snyder@example.com
+66,796,70.4,2023-05-29,2023,May,2023-Q2,San Francisco,USA,Aisha.Webb@example.com,Chicago,USA,Robbie.Hardy@example.com
+979,1000,27.35,2023-05-30,2023,May,2023-Q2,San Diego,USA,Myrtle.Bradford@example.com,San Francisco,USA,Simeon.Mccall@example.com
+758,835,29.08,2023-05-31,2023,May,2023-Q2,San Francisco,USA,Halima.Maldonado@example.com,San Francisco,USA,Russell.Carlson@example.com
+659,778,36.03,2023-06-01,2023,June,2023-Q2,San Diego,USA,Oliwier.Gill@example.com,San Francisco,USA,Willow.Buck@example.com
+376,888,24.51,2023-06-02,2023,June,2023-Q2,Los Angeles,USA,Saskia.Glover@example.com,San Diego,USA,Liana.Baldwin@example.com
+363,927,69.89,2023-06-03,2023,June,2023-Q2,San Francisco,USA,Layton.Suarez@example.com,Chicago,USA,Alejandro.Kent@example.com
+1,52,25.02,2023-06-05,2023,June,2023-Q2,Montreal,Canada,Jamie.Bright@example.com,Montreal,Canada,Amaan.Rangel@example.com
+193,879,18.28,2023-06-05,2023,June,2023-Q2,Los Angeles,USA,Susie.Gibbons@example.com,New York,USA,Lucy.Fuentes@example.com
+401,478,15.72,2023-06-06,2023,June,2023-Q2,San Diego,USA,Gloria.Quinn@example.com,San Francisco,USA,Alejandro.Ali@example.com
+198,327,50.3,2023-06-07,2023,June,2023-Q2,Toronto,Canada,Zakir.Russell@example.com,Toronto,Canada,Oliver.Sanford@example.com
+901,677,5.07,2023-06-08,2023,June,2023-Q2,Los Angeles,USA,Lily-May.Horne@example.com,San Diego,USA,Kelvin.Hendricks@example.com
+72,964,8.65,2023-06-15,2023,June,2023-Q2,San Francisco,USA,Kingsley.Moyer@example.com,San Francisco,USA,Colby.Harding@example.com
+374,936,24.47,2023-06-15,2023,June,2023-Q2,San Francisco,USA,Sara.Harris@example.com,San Diego,USA,Ted.Wiggins@example.com
+224,564,66.46,2023-06-16,2023,June,2023-Q2,Chicago,USA,Lily-Rose.Kaufman@example.com,Chicago,USA,Craig.Mcknight@example.com
+706,408,33.74,2023-06-18,2023,June,2023-Q2,Los Angeles,USA,Elisha.Garza@example.com,San Francisco,USA,Adnan.Moore@example.com
+364,932,35.42,2023-06-19,2023,June,2023-Q2,Los Angeles,USA,Markus.Weaver@example.com,San Francisco,USA,Ayden.Valentine@example.com
+871,12,49.84,2023-06-19,2023,June,2023-Q2,San Diego,USA,Ronnie.Burch@example.com,San Diego,USA,Hussain.Santos@example.com
+764,989,11.87,2023-06-19,2023,June,2023-Q2,New York,USA,Cecily.Escobar@example.com,New York,USA,Leyla.Finley@example.com
+263,714,19.32,2023-06-19,2023,June,2023-Q2,Toronto,Canada,Tommy.Farmer@example.com,Toronto,Canada,Isla.Barber@example.com
+769,423,45.0,2023-06-19,2023,June,2023-Q2,San Francisco,USA,Marilyn.Scott@example.com,Chicago,USA,Haaris.Blevins@example.com
+631,773,29.8,2023-06-21,2023,June,2023-Q2,San Francisco,USA,Brooklyn.Fowler@example.com,San Francisco,USA,Luqman.Larson@example.com
+85,944,20.47,2023-06-21,2023,June,2023-Q2,Chicago,USA,Clarence.Hanson@example.com,Chicago,USA,Hiba.Hicks@example.com
+935,989,4.98,2023-06-22,2023,June,2023-Q2,New York,USA,Chloe.Mullen@example.com,New York,USA,Leyla.Finley@example.com
+314,705,47.41,2023-06-25,2023,June,2023-Q2,Chicago,USA,Neve.Hendrix@example.com,Chicago,USA,Vincent.Garrison@example.com
+473,287,30.01,2023-06-26,2023,June,2023-Q2,Montreal,Canada,Hayden.Lucas@example.com,Montreal,Canada,Jan.Daniels@example.com
+907,660,60.75,2023-06-26,2023,June,2023-Q2,San Diego,USA,Samia.Bradley@example.com,Chicago,USA,Zayn.Kaufman@example.com
+986,249,12.74,2023-06-30,2023,June,2023-Q2,Los Angeles,USA,Rosanna.Dyer@example.com,Los Angeles,USA,Clementine.Whitaker@example.com
+746,55,65.61,2023-06-30,2023,June,2023-Q2,San Diego,USA,Isabelle.Jenkins@example.com,San Diego,USA,Ernest.Martinez@example.com
+868,865,81.69,2023-07-02,2023,July,2023-Q3,New York,USA,Cecilia.David@example.com,New York,USA,Christina.Blanchard@example.com
+973,648,20.26,2023-07-03,2023,July,2023-Q3,San Diego,USA,Jean.Winters@example.com,San Francisco,USA,Luna.Levy@example.com
+996,318,12.77,2023-07-03,2023,July,2023-Q3,Toronto,Canada,Maria.Stephens@example.com,Toronto,Canada,Mario.Luna@example.com
+835,501,34.41,2023-07-10,2023,July,2023-Q3,San Francisco,USA,Russell.Carlson@example.com,San Francisco,USA,Nannie.Carr@example.com
+72,443,51.51,2023-07-12,2023,July,2023-Q3,San Francisco,USA,Kingsley.Moyer@example.com,San Francisco,USA,Miguel.Guerrero@example.com
+918,269,41.46,2023-07-12,2023,July,2023-Q3,Toronto,Canada,William.Franco@example.com,Toronto,Canada,Yusuf.Salazar@example.com
+82,850,44.1,2023-07-15,2023,July,2023-Q3,San Diego,USA,Casper.Freeman@example.com,Chicago,USA,Taylor.Woods@example.com
+770,602,4.46,2023-07-18,2023,July,2023-Q3,Los Angeles,USA,Jannat.Landry@example.com,Los Angeles,USA,Jazmin.Lopez@example.com
+631,913,137.01,2023-07-21,2023,July,2023-Q3,San Francisco,USA,Brooklyn.Fowler@example.com,New York,USA,Ricardo.Odling@example.com
+231,874,30.03,2023-07-22,2023,July,2023-Q3,Montreal,Canada,Darcy.Wall@example.com,Montreal,Canada,Alasdair.Mckinney@example.com
+667,98,84.55,2023-07-28,2023,July,2023-Q3,San Francisco,USA,Theresa.Bentley@example.com,San Francisco,USA,Traci.Banks@example.com
+682,749,40.33,2023-07-29,2023,July,2023-Q3,Los Angeles,USA,Laura.Valdez@example.com,Chicago,USA,Tobias.Beltran@example.com
+74,664,31.96,2023-07-31,2023,July,2023-Q3,Toronto,Canada,Myrtle.Doyle@example.com,Toronto,Canada,Zara.Oconnell@example.com
+686,901,15.01,2023-08-01,2023,August,2023-Q3,San Diego,USA,Mohamed.Miller@example.com,Los Angeles,USA,Lily-May.Horne@example.com
+738,874,71.33,2023-08-02,2023,August,2023-Q3,Toronto,Canada,Gertrude.Mcgrath@example.com,Montreal,Canada,Alasdair.Mckinney@example.com
+323,37,22.32,2023-08-03,2023,August,2023-Q3,Toronto,Canada,Seren.Rocha@example.com,Toronto,Canada,Lili.Schroeder@example.com
+193,647,43.57,2023-08-08,2023,August,2023-Q3,Los Angeles,USA,Susie.Gibbons@example.com,San Francisco,USA,Jaxson.Moss@example.com
+970,705,5.37,2023-08-11,2023,August,2023-Q3,Chicago,USA,Qasim.Bullock@example.com,Chicago,USA,Vincent.Garrison@example.com
+719,113,67.37,2023-08-14,2023,August,2023-Q3,San Francisco,USA,Marnie.White@example.com,San Francisco,USA,Kaan.Miranda@example.com
+108,592,3.86,2023-08-15,2023,August,2023-Q3,Toronto,Canada,Mohsin.Tucker@example.com,Toronto,Canada,Jamil.Shepherd@example.com
+710,184,23.59,2023-08-15,2023,August,2023-Q3,San Francisco,USA,Candice.Moyer@example.com,New York,USA,David.Bridges@example.com
+701,947,85.97,2023-08-17,2023,August,2023-Q3,Los Angeles,USA,Tamsin.Stein@example.com,San Diego,USA,Isra.Burgess@example.com
+979,924,38.71,2023-08-17,2023,August,2023-Q3,San Diego,USA,Myrtle.Bradford@example.com,San Francisco,USA,Kendra.Francis@example.com
+571,954,22.82,2023-08-19,2023,August,2023-Q3,San Francisco,USA,Keelan.Thompson@example.com,Los Angeles,USA,Aston.Villegas@example.com
+590,555,45.29,2023-08-20,2023,August,2023-Q3,New York,USA,Susannah.Kane@example.com,New York,USA,Ammar.Floyd@example.com
+419,986,8.47,2023-08-21,2023,August,2023-Q3,San Diego,USA,Celine.Calderon@example.com,Los Angeles,USA,Rosanna.Dyer@example.com
+870,95,16.9,2023-08-21,2023,August,2023-Q3,Los Angeles,USA,Stacey.Manning@example.com,San Diego,USA,Miles.Fisher@example.com
+274,382,12.26,2023-08-21,2023,August,2023-Q3,Toronto,Canada,Bronte.Riley@example.com,Toronto,Canada,Zachery.Snow@example.com
+138,796,68.32,2023-08-22,2023,August,2023-Q3,Chicago,USA,Adnan.Allen@example.com,Chicago,USA,Robbie.Hardy@example.com
+815,925,26.48,2023-08-23,2023,August,2023-Q3,San Diego,USA,Aurora.Andrews@example.com,San Diego,USA,Yasmine.Scott@example.com
+303,993,28.82,2023-08-24,2023,August,2023-Q3,Montreal,Canada,Nikita.Marquez@example.com,Montreal,Canada,Jayson.Sutton@example.com
+792,925,18.76,2023-08-25,2023,August,2023-Q3,San Francisco,USA,Emilie.Frye@example.com,San Diego,USA,Yasmine.Scott@example.com
+124,546,7.1,2023-08-26,2023,August,2023-Q3,San Diego,USA,Carol.York@example.com,San Francisco,USA,Lenny.Patrick@example.com
+592,809,55.38,2023-08-26,2023,August,2023-Q3,Toronto,Canada,Jamil.Shepherd@example.com,Toronto,Canada,Abdullahi.Carson@example.com
+36,924,67.92,2023-08-28,2023,August,2023-Q3,Los Angeles,USA,Dominik.Odling@example.com,San Francisco,USA,Kendra.Francis@example.com
+411,269,20.84,2023-08-28,2023,August,2023-Q3,Toronto,Canada,Candice.Hooper@example.com,Toronto,Canada,Yusuf.Salazar@example.com
+62,885,9.12,2023-08-30,2023,August,2023-Q3,San Francisco,USA,Ty.Mcintyre@example.com,Los Angeles,USA,Omar.Ashley@example.com
+455,224,96.59,2023-09-05,2023,September,2023-Q3,Chicago,USA,Margaret.Woods@example.com,Chicago,USA,Lily-Rose.Kaufman@example.com
+116,960,3.75,2023-09-07,2023,September,2023-Q3,San Diego,USA,Gerard.Vargas@example.com,San Francisco,USA,Lewis.Mcmahon@example.com
+326,109,60.78,2023-09-08,2023,September,2023-Q3,Chicago,USA,Archibald.Melendez@example.com,Chicago,USA,Huw.Valentine@example.com
+546,916,59.51,2023-09-10,2023,September,2023-Q3,San Francisco,USA,Lenny.Patrick@example.com,San Francisco,USA,Mya.Ho@example.com
+856,415,21.78,2023-09-11,2023,September,2023-Q3,Los Angeles,USA,Maisie.Cunningham@example.com,San Diego,USA,Christopher.Pollard@example.com
+335,234,28.18,2023-09-12,2023,September,2023-Q3,New York,USA,Aaminah.Daniel@example.com,New York,USA,Esmee.Harmon@example.com
+1,825,20.31,2023-09-13,2023,September,2023-Q3,Montreal,Canada,Jamie.Bright@example.com,Montreal,Canada,Chiara.Ho@example.com
+897,981,78.71,2023-09-14,2023,September,2023-Q3,Los Angeles,USA,Zoe.Decker@example.com,San Diego,USA,Gwen.Norris@example.com
+10,211,62.25,2023-09-14,2023,September,2023-Q3,Chicago,USA,Keith.Donovan@example.com,Chicago,USA,Gerard.Francis@example.com
+248,135,130.62,2023-09-18,2023,September,2023-Q3,Toronto,Canada,Bethan.Franco@example.com,Montreal,Canada,Bertie.Ward@example.com
+638,674,30.12,2023-09-23,2023,September,2023-Q3,Los Angeles,USA,Jamie.Berg@example.com,San Francisco,USA,Mahir.Cooper@example.com
+683,830,51.35,2023-09-24,2023,September,2023-Q3,San Francisco,USA,Irene.Kim@example.com,San Francisco,USA,Adem.Mccoy@example.com
+156,429,6.29,2023-09-24,2023,September,2023-Q3,Montreal,Canada,Alia.Brooks@example.com,Montreal,Canada,Mike.Hurst@example.com
+84,697,51.67,2023-09-25,2023,September,2023-Q3,San Francisco,USA,Safia.Ayers@example.com,San Francisco,USA,Donald.Horne@example.com
+696,879,66.3,2023-09-25,2023,September,2023-Q3,New York,USA,Anais.Pineda@example.com,New York,USA,Lucy.Fuentes@example.com
+382,356,7.77,2023-09-25,2023,September,2023-Q3,Toronto,Canada,Zachery.Snow@example.com,Toronto,Canada,Romeo.Martin@example.com
+873,960,18.45,2023-09-26,2023,September,2023-Q3,San Diego,USA,Luke.Graham@example.com,San Francisco,USA,Lewis.Mcmahon@example.com
+965,896,16.9,2023-09-28,2023,September,2023-Q3,Los Angeles,USA,Renee.Arroyo@example.com,San Francisco,USA,Jordanne.Juarez@example.com
+346,135,1.0,2023-09-29,2023,September,2023-Q3,Montreal,Canada,Caiden.Kaufman@example.com,Montreal,Canada,Bertie.Ward@example.com
+1,749,31.2,2023-09-29,2023,September,2023-Q3,Montreal,Canada,Jamie.Bright@example.com,Chicago,USA,Tobias.Beltran@example.com
+974,838,7.29,2023-09-30,2023,September,2023-Q3,New York,USA,Jared.Hamilton@example.com,New York,USA,Aisha.Sosa@example.com
+933,957,6.61,2023-10-01,2023,October,2023-Q4,San Diego,USA,Kaine.Blankenship@example.com,San Francisco,USA,Effie.Jordan@example.com
+758,920,18.48,2023-10-02,2023,October,2023-Q4,San Francisco,USA,Halima.Maldonado@example.com,San Francisco,USA,Kamil.Bernard@example.com
+938,973,59.58,2023-10-02,2023,October,2023-Q4,San Diego,USA,Alisha.Hoover@example.com,San Diego,USA,Jean.Winters@example.com
+111,895,5.37,2023-10-04,2023,October,2023-Q4,San Francisco,USA,Harriett.Mccoy@example.com,San Francisco,USA,Kamil.Guzman@example.com
+768,543,41.86,2023-10-04,2023,October,2023-Q4,Toronto,Canada,Caleb.Obrien@example.com,Toronto,Canada,Esme.Krueger@example.com
+902,190,66.63,2023-10-05,2023,October,2023-Q4,San Francisco,USA,Mitchell.Murray@example.com,San Francisco,USA,Charlotte.Baxter@example.com
+717,361,31.77,2023-10-06,2023,October,2023-Q4,San Francisco,USA,Barry.Taylor@example.com,San Diego,USA,Joel.Baldwin@example.com
+963,850,1.0,2023-10-07,2023,October,2023-Q4,Chicago,USA,Billy.Norton@example.com,Chicago,USA,Taylor.Woods@example.com
+370,494,4.18,2023-10-08,2023,October,2023-Q4,San Diego,USA,Darcey.Powell@example.com,San Francisco,USA,Bryan.Caldwell@example.com
+89,693,51.23,2023-10-12,2023,October,2023-Q4,New York,USA,Everett.Fitzpatrick@example.com,New York,USA,Jayden.Dunlap@example.com
+285,147,36.98,2023-10-13,2023,October,2023-Q4,Toronto,Canada,Lorna.Levy@example.com,Toronto,Canada,Eleanor.Mcintosh@example.com
+712,892,43.03,2023-10-14,2023,October,2023-Q4,Toronto,Canada,Bronte.Mendoza@example.com,Toronto,Canada,Sydney.Pratt@example.com
+335,937,41.1,2023-10-17,2023,October,2023-Q4,New York,USA,Aaminah.Daniel@example.com,New York,USA,Nina.Mathews@example.com
+103,392,36.88,2023-10-18,2023,October,2023-Q4,Toronto,Canada,Caspar.Hudson@example.com,Toronto,Canada,Kyle.Joseph@example.com
+213,995,2.49,2023-10-18,2023,October,2023-Q4,Montreal,Canada,Kyran.Wyatt@example.com,Montreal,Canada,Raja.Reeves@example.com
+237,973,59.93,2023-10-20,2023,October,2023-Q4,San Francisco,USA,Carter.Coleman@example.com,San Diego,USA,Jean.Winters@example.com
+105,118,49.49,2023-10-22,2023,October,2023-Q4,San Diego,USA,Franklin.Conway@example.com,Los Angeles,USA,Sean.Bolton@example.com
+739,748,28.43,2023-10-23,2023,October,2023-Q4,New York,USA,Lewis.Brooks@example.com,New York,USA,Montgomery.Davila@example.com
+553,165,64.96,2023-10-23,2023,October,2023-Q4,Chicago,USA,Rajan.Fletcher@example.com,Chicago,USA,Amira.Berg@example.com
+108,592,35.97,2023-10-23,2023,October,2023-Q4,Toronto,Canada,Mohsin.Tucker@example.com,Toronto,Canada,Jamil.Shepherd@example.com
+706,540,14.05,2023-10-24,2023,October,2023-Q4,Los Angeles,USA,Elisha.Garza@example.com,Los Angeles,USA,Savannah.Boone@example.com
+601,216,3.43,2023-10-24,2023,October,2023-Q4,New York,USA,Rio.Pennington@example.com,New York,USA,Nataniel.Nunez@example.com
+980,593,53.68,2023-10-24,2023,October,2023-Q4,Toronto,Canada,Kacie.Lester@example.com,Toronto,Canada,Danyal.Lang@example.com
+840,939,13.24,2023-10-25,2023,October,2023-Q4,San Francisco,USA,Mason.Kelley@example.com,San Diego,USA,Alyssa.Bradshaw@example.com
+322,968,70.74,2023-10-25,2023,October,2023-Q4,San Francisco,USA,Melissa.Harding@example.com,New York,USA,Roosevelt.Huff@example.com
+982,9,28.56,2023-10-26,2023,October,2023-Q4,Toronto,Canada,Myles.Sharpe@example.com,Toronto,Canada,Asa.Vazquez@example.com
+342,838,61.74,2023-10-27,2023,October,2023-Q4,Los Angeles,USA,Alfred.Stuart@example.com,New York,USA,Aisha.Sosa@example.com
+897,54,80.48,2023-10-28,2023,October,2023-Q4,Los Angeles,USA,Zoe.Decker@example.com,New York,USA,Bethany.Santana@example.com
+209,563,7.57,2023-10-29,2023,October,2023-Q4,Los Angeles,USA,Eliot.Stokes@example.com,San Francisco,USA,Safaa.Sharpe@example.com
+185,163,1.0,2023-10-29,2023,October,2023-Q4,Los Angeles,USA,Milton.Carlson@example.com,New York,USA,Talha.Austin@example.com
+748,506,37.89,2023-10-31,2023,October,2023-Q4,New York,USA,Montgomery.Davila@example.com,New York,USA,Jude.Manning@example.com
+363,966,38.71,2023-11-05,2023,November,2023-Q4,San Francisco,USA,Layton.Suarez@example.com,Los Angeles,USA,Marjorie.Munoz@example.com
+783,978,3.72,2023-11-07,2023,November,2023-Q4,New York,USA,Saira.Lewis@example.com,New York,USA,Zain.Haney@example.com
+802,947,59.94,2023-11-15,2023,November,2023-Q4,San Diego,USA,Eleni.Maxwell@example.com,San Diego,USA,Isra.Burgess@example.com
+473,287,3.78,2023-11-15,2023,November,2023-Q4,Montreal,Canada,Hayden.Lucas@example.com,Montreal,Canada,Jan.Daniels@example.com
+43,961,37.86,2023-11-16,2023,November,2023-Q4,Los Angeles,USA,Elena.Pineda@example.com,Los Angeles,USA,Tobias.Schultz@example.com
+58,236,53.23,2023-11-16,2023,November,2023-Q4,Los Angeles,USA,Orlando.Pitts@example.com,Los Angeles,USA,Gloria.Mason@example.com
+865,913,22.82,2023-11-16,2023,November,2023-Q4,New York,USA,Christina.Blanchard@example.com,New York,USA,Ricardo.Odling@example.com
+573,773,1.0,2023-11-17,2023,November,2023-Q4,San Diego,USA,Arron.Herman@example.com,San Francisco,USA,Luqman.Larson@example.com
+888,436,1.92,2023-11-17,2023,November,2023-Q4,San Diego,USA,Liana.Baldwin@example.com,San Francisco,USA,Alan.Burton@example.com
+601,913,10.48,2023-11-19,2023,November,2023-Q4,New York,USA,Rio.Pennington@example.com,New York,USA,Ricardo.Odling@example.com
+854,268,70.32,2023-11-21,2023,November,2023-Q4,San Diego,USA,Ffion.Knight@example.com,San Francisco,USA,Johnny.Ford@example.com
+255,668,52.93,2023-11-24,2023,November,2023-Q4,San Diego,USA,Miriam.Pacheco@example.com,San Francisco,USA,Joshua.Bonner@example.com
+263,105,10.03,2023-11-24,2023,November,2023-Q4,Toronto,Canada,Tommy.Farmer@example.com,San Diego,USA,Franklin.Conway@example.com
+662,312,40.5,2023-11-25,2023,November,2023-Q4,Chicago,USA,Anthony.Mccullough@example.com,Chicago,USA,Marissa.Rubio@example.com
+817,441,88.66,2023-11-26,2023,November,2023-Q4,San Diego,USA,Renee.Mullen@example.com,San Diego,USA,Conrad.Hanna@example.com
+656,493,4.7,2023-11-26,2023,November,2023-Q4,Los Angeles,USA,Tomos.Velez@example.com,Los Angeles,USA,Jazmine.Harper@example.com
+250,192,11.65,2023-11-28,2023,November,2023-Q4,Chicago,USA,Sarah.Mooney@example.com,Chicago,USA,Leonie.Sanders@example.com
+924,940,1.67,2023-11-30,2023,November,2023-Q4,San Francisco,USA,Kendra.Francis@example.com,Los Angeles,USA,Marilyn.Hart@example.com
+986,286,8.34,2023-12-03,2023,December,2023-Q4,Los Angeles,USA,Rosanna.Dyer@example.com,Los Angeles,USA,Cordelia.Marquez@example.com
+244,738,1.0,2023-12-03,2023,December,2023-Q4,Toronto,Canada,Taylor.Ramos@example.com,Toronto,Canada,Gertrude.Mcgrath@example.com
+903,318,3.92,2023-12-03,2023,December,2023-Q4,San Francisco,USA,Dominik.Velez@example.com,Toronto,Canada,Mario.Luna@example.com
+754,108,2.89,2023-12-04,2023,December,2023-Q4,Toronto,Canada,Adem.Kerr@example.com,Toronto,Canada,Mohsin.Tucker@example.com
+646,848,82.36,2023-12-06,2023,December,2023-Q4,San Francisco,USA,Brittney.Ruiz@example.com,Los Angeles,USA,Charis.Bray@example.com
+205,467,15.7,2023-12-08,2023,December,2023-Q4,San Francisco,USA,Zoe.Newman@example.com,San Francisco,USA,Zubair.Sheppard@example.com
+473,31,9.97,2023-12-08,2023,December,2023-Q4,Montreal,Canada,Hayden.Lucas@example.com,Montreal,Canada,Bradley.Butler@example.com
+489,404,12.18,2023-12-09,2023,December,2023-Q4,San Francisco,USA,Khadija.Dunlap@example.com,San Francisco,USA,Verity.Oneal@example.com
+907,926,76.05,2023-12-12,2023,December,2023-Q4,San Diego,USA,Samia.Bradley@example.com,San Francisco,USA,Ann.John@example.com
+982,763,41.16,2023-12-13,2023,December,2023-Q4,Toronto,Canada,Myles.Sharpe@example.com,Toronto,Canada,Huda.Crane@example.com
+328,538,33.17,2023-12-15,2023,December,2023-Q4,San Diego,USA,Otis.Pittman@example.com,Los Angeles,USA,Tristan.Valdez@example.com
+274,598,19.29,2023-12-16,2023,December,2023-Q4,Toronto,Canada,Bronte.Riley@example.com,Los Angeles,USA,Monica.Bruce@example.com
+625,825,6.03,2023-12-20,2023,December,2023-Q4,Montreal,Canada,Diane.Kelly@example.com,Montreal,Canada,Chiara.Ho@example.com
+461,973,74.82,2023-12-24,2023,December,2023-Q4,Los Angeles,USA,Leila.Hawkins@example.com,San Diego,USA,Jean.Winters@example.com
+526,720,94.26,2023-12-24,2023,December,2023-Q4,New York,USA,Tara.Brewer@example.com,New York,USA,Giovanni.Duncan@example.com
+195,973,20.44,2023-12-25,2023,December,2023-Q4,San Diego,USA,Jorge.Maldonado@example.com,San Diego,USA,Jean.Winters@example.com
+472,807,4.26,2023-12-25,2023,December,2023-Q4,Los Angeles,USA,Colby.Baxter@example.com,San Francisco,USA,Polly.Mendez@example.com
+85,191,46.33,2023-12-26,2023,December,2023-Q4,Chicago,USA,Clarence.Hanson@example.com,Chicago,USA,Damon.Bullock@example.com
+578,248,15.84,2023-12-29,2023,December,2023-Q4,Toronto,Canada,Demi.Callahan@example.com,Toronto,Canada,Bethan.Franco@example.com
+827,400,59.13,2023-12-31,2023,December,2023-Q4,Los Angeles,USA,Laurence.Graves@example.com,Los Angeles,USA,Joanna.Durham@example.com
+752,438,43.27,2023-12-31,2023,December,2023-Q4,Chicago,USA,Marwa.Dennis@example.com,Chicago,USA,Leslie.Harrington@example.com
+620,442,15.61,2023-12-31,2023,December,2023-Q4,Toronto,Canada,Neo.Lara@example.com,Toronto,Canada,Lenny.Hardy@example.com
+846,430,11.34,2024-01-01,2024,January,2024-Q1,San Diego,USA,John.Mason@example.com,San Diego,USA,Huw.Pearson@example.com
+430,55,36.62,2024-01-01,2024,January,2024-Q1,San Diego,USA,Huw.Pearson@example.com,San Diego,USA,Ernest.Martinez@example.com
+65,620,19.91,2024-01-01,2024,January,2024-Q1,Toronto,Canada,Aled.Silva@example.com,Toronto,Canada,Neo.Lara@example.com
+214,365,18.75,2024-01-01,2024,January,2024-Q1,Toronto,Canada,Eugene.Taylor@example.com,Toronto,Canada,Martina.Moran@example.com
+878,242,54.18,2024-01-02,2024,January,2024-Q1,Los Angeles,USA,Mateo.Francis@example.com,New York,USA,Hazel.Joseph@example.com
+108,130,24.27,2024-01-02,2024,January,2024-Q1,Toronto,Canada,Mohsin.Tucker@example.com,Montreal,Canada,Zohaib.Hartman@example.com
+309,119,140.03,2024-01-02,2024,January,2024-Q1,London,United Kingdom,Barnaby.Payne@example.com,Paris, France,Arron.Peck@example.com
+769,648,48.39,2024-01-03,2024,January,2024-Q1,San Francisco,USA,Marilyn.Scott@example.com,San Francisco,USA,Luna.Levy@example.com
+184,1,42.48,2024-01-05,2024,January,2024-Q1,New York,USA,David.Bridges@example.com,Montreal,Canada,Jamie.Bright@example.com
+412,173,39.98,2024-01-05,2024,January,2024-Q1,Barcelona, Spain,Omar.Clements@example.com,Barcelona, Spain,Enya.Hernandez@example.com
+66,930,13.14,2024-01-06,2024,January,2024-Q1,San Francisco,USA,Aisha.Webb@example.com,San Francisco,USA,Christina.Mays@example.com
+429,579,9.21,2024-01-06,2024,January,2024-Q1,Montreal,Canada,Mike.Hurst@example.com,Montreal,Canada,Sufyaan.Castillo@example.com
+714,214,13.48,2024-01-09,2024,January,2024-Q1,Toronto,Canada,Isla.Barber@example.com,Toronto,Canada,Eugene.Taylor@example.com
+954,647,51.72,2024-01-10,2024,January,2024-Q1,Los Angeles,USA,Aston.Villegas@example.com,San Francisco,USA,Jaxson.Moss@example.com
+935,764,4.45,2024-01-10,2024,January,2024-Q1,New York,USA,Chloe.Mullen@example.com,New York,USA,Cecily.Escobar@example.com
+215,844,10.54,2024-01-11,2024,January,2024-Q1,San Francisco,USA,Katerina.Turner@example.com,Los Angeles,USA,Marnie.Sheppard@example.com
+141,245,28.59,2024-01-11,2024,January,2024-Q1,Montreal,Canada,Adriana.Stafford@example.com,Montreal,Canada,Elsie.Cuevas@example.com
+263,967,38.51,2024-01-12,2024,January,2024-Q1,Toronto,Canada,Tommy.Farmer@example.com,Toronto,Canada,Emilio.Stevenson@example.com
+743,563,57.21,2024-01-13,2024,January,2024-Q1,San Diego,USA,Wendy.Mcclure@example.com,San Francisco,USA,Safaa.Sharpe@example.com
+179,438,81.49,2024-01-14,2024,January,2024-Q1,Chicago,USA,Aminah.Wells@example.com,Chicago,USA,Leslie.Harrington@example.com
+318,263,6.75,2024-01-17,2024,January,2024-Q1,Toronto,Canada,Mario.Luna@example.com,Toronto,Canada,Tommy.Farmer@example.com
+197,965,55.76,2024-01-19,2024,January,2024-Q1,San Diego,USA,Tiago.Dunn@example.com,Los Angeles,USA,Renee.Arroyo@example.com
+609,5,137.71,2024-01-19,2024,January,2024-Q1,Paris, France,Taylor.Leon@example.com,Paris, France,Beatrix.Everett@example.com
+710,827,44.83,2024-01-21,2024,January,2024-Q1,San Francisco,USA,Candice.Moyer@example.com,Los Angeles,USA,Laurence.Graves@example.com
+890,948,57.48,2024-01-23,2024,January,2024-Q1,Los Angeles,USA,Ahmad.Landry@example.com,Los Angeles,USA,Kobe.Knapp@example.com
+731,296,4.09,2024-01-23,2024,January,2024-Q1,San Francisco,USA,Denzel.Black@example.com,San Francisco,USA,Steven.Reid@example.com
+919,220,57.52,2024-01-27,2024,January,2024-Q1,San Francisco,USA,Ayesha.Underwood@example.com,San Francisco,USA,Sahar.Kim@example.com
+262,317,4.94,2024-01-27,2024,January,2024-Q1,Toronto,Canada,Everly.Cortez@example.com,Toronto,Canada,Bessie.Cuevas@example.com
+922,869,99.2,2024-01-27,2024,January,2024-Q1,Barcelona, Spain,Luisa.Haley@example.com,Paris, France,Bibi.Weaver@example.com
+341,837,1.0,2024-01-30,2024,January,2024-Q1,San Diego,USA,Alexandros.Green@example.com,Los Angeles,USA,Izaak.Welsh@example.com
+946,433,20.12,2024-01-30,2024,January,2024-Q1,Toronto,Canada,Lacie.Mayer@example.com,Toronto,Canada,Angelo.Manning@example.com
+1,830,8.68,2024-01-30,2024,January,2024-Q1,Montreal,Canada,Jamie.Bright@example.com,San Francisco,USA,Adem.Mccoy@example.com
+73,420,77.35,2024-02-04,2024,February,2024-Q1,Paris, France,Kara.Stewart@example.com,London,United Kingdom,Pablo.Benton@example.com
+173,38,106.3,2024-02-04,2024,February,2024-Q1,Barcelona, Spain,Enya.Hernandez@example.com,London,United Kingdom,Jeremiah.Martin@example.com
+422,460,8.96,2024-02-06,2024,February,2024-Q1,San Francisco,USA,Ruby.Reid@example.com,Los Angeles,USA,Demi.Dennis@example.com
+192,963,80.54,2024-02-06,2024,February,2024-Q1,Chicago,USA,Leonie.Sanders@example.com,Chicago,USA,Billy.Norton@example.com
+65,466,47.31,2024-02-06,2024,February,2024-Q1,Toronto,Canada,Aled.Silva@example.com,Toronto,Canada,Charis.Cotton@example.com
+976,890,25.21,2024-02-07,2024,February,2024-Q1,San Diego,USA,Marnie.Mayo@example.com,Los Angeles,USA,Ahmad.Landry@example.com
+593,923,116.46,2024-02-10,2024,February,2024-Q1,Toronto,Canada,Danyal.Lang@example.com,Montreal,Canada,Russell.Long@example.com
+391,234,11.55,2024-02-11,2024,February,2024-Q1,New York,USA,Laiba.Knapp@example.com,New York,USA,Esmee.Harmon@example.com
+801,387,31.28,2024-02-13,2024,February,2024-Q1,New York,USA,Gabriel.Mccormick@example.com,New York,USA,Jesse.Perry@example.com
+769,350,49.57,2024-02-15,2024,February,2024-Q1,San Francisco,USA,Marilyn.Scott@example.com,San Francisco,USA,Jed.Myers@example.com
+440,961,12.24,2024-02-16,2024,February,2024-Q1,San Francisco,USA,Dean.Koch@example.com,Los Angeles,USA,Tobias.Schultz@example.com
+826,171,38.38,2024-02-17,2024,February,2024-Q1,New York,USA,Sinead.Montes@example.com,New York,USA,Patrick.Morse@example.com
+393,78,56.54,2024-02-18,2024,February,2024-Q1,Barcelona, Spain,Timothy.Jacobs@example.com,London,United Kingdom,Angela.Mcmillan@example.com
+621,241,43.63,2024-02-19,2024,February,2024-Q1,San Diego,USA,Kiana.Carter@example.com,San Diego,USA,Chris.Zimmerman@example.com
+818,130,4.42,2024-02-20,2024,February,2024-Q1,Montreal,Canada,Alexander.Reid@example.com,Montreal,Canada,Zohaib.Hartman@example.com
+74,945,32.25,2024-02-20,2024,February,2024-Q1,Toronto,Canada,Myrtle.Doyle@example.com,Los Angeles,USA,Elisha.Owens@example.com
+374,554,20.62,2024-02-22,2024,February,2024-Q1,San Francisco,USA,Sara.Harris@example.com,San Francisco,USA,Tyrell.Holman@example.com
+545,920,82.09,2024-02-23,2024,February,2024-Q1,Los Angeles,USA,Valentina.Cross@example.com,San Francisco,USA,Kamil.Bernard@example.com
+939,948,17.68,2024-02-24,2024,February,2024-Q1,San Diego,USA,Alyssa.Bradshaw@example.com,Los Angeles,USA,Kobe.Knapp@example.com
+964,803,23.73,2024-02-25,2024,February,2024-Q1,San Francisco,USA,Colby.Harding@example.com,San Diego,USA,Susan.Fowler@example.com
+779,998,172.87,2024-02-27,2024,February,2024-Q1,London,United Kingdom,Krish.Hutchinson@example.com,London,United Kingdom,Fatimah.Johns@example.com
+444,520,58.61,2024-02-28,2024,February,2024-Q1,San Francisco,USA,Karina.Mata@example.com,San Francisco,USA,Henry.Holloway@example.com
+345,658,33.28,2024-02-28,2024,February,2024-Q1,Chicago,USA,Hannah.Zuniga@example.com,Chicago,USA,Syeda.Calhoun@example.com
+734,986,8.99,2024-02-29,2024,February,2024-Q1,San Francisco,USA,Harun.Clark@example.com,Los Angeles,USA,Rosanna.Dyer@example.com
+773,680,8.22,2024-03-01,2024,March,2024-Q1,San Francisco,USA,Luqman.Larson@example.com,Los Angeles,USA,Esha.Zuniga@example.com
+875,512,51.64,2024-03-01,2024,March,2024-Q1,San Francisco,USA,Cayden.Walls@example.com,San Diego,USA,Khadijah.Little@example.com
+526,96,36.56,2024-03-01,2024,March,2024-Q1,New York,USA,Tara.Brewer@example.com,New York,USA,Nadia.Neal@example.com
+289,503,27.73,2024-03-02,2024,March,2024-Q1,New York,USA,Adele.Cantrell@example.com,London,United Kingdom,Jim.Moses@example.com
+68,899,75.99,2024-03-04,2024,March,2024-Q1,Paris, France,Saif.Green@example.com,San Francisco,USA,Frankie.Jenkins@example.com
+243,130,15.32,2024-03-05,2024,March,2024-Q1,Montreal,Canada,Brogan.Fitzgerald@example.com,Montreal,Canada,Zohaib.Hartman@example.com
+966,108,72.63,2024-03-05,2024,March,2024-Q1,Los Angeles,USA,Marjorie.Munoz@example.com,Toronto,Canada,Mohsin.Tucker@example.com
+100,129,99.22,2024-03-08,2024,March,2024-Q1,London,United Kingdom,Usman.Swanson@example.com,London,United Kingdom,Alejandro.Duncan@example.com
+286,963,21.05,2024-03-09,2024,March,2024-Q1,Los Angeles,USA,Cordelia.Marquez@example.com,Chicago,USA,Billy.Norton@example.com
+42,41,135.1,2024-03-09,2024,March,2024-Q1,London,United Kingdom,Tomas.Griffith@example.com,London,United Kingdom,Cody.Riley@example.com
+914,260,85.96,2024-03-09,2024,March,2024-Q1,Los Angeles,USA,Nancy.Sharp@example.com,London,United Kingdom,Darcey.Robles@example.com
+697,908,22.34,2024-03-10,2024,March,2024-Q1,San Francisco,USA,Donald.Horne@example.com,Los Angeles,USA,Nataniel.Glenn@example.com
+878,434,36.15,2024-03-10,2024,March,2024-Q1,Los Angeles,USA,Mateo.Francis@example.com,Los Angeles,USA,Enzo.Hess@example.com
+952,20,73.27,2024-03-10,2024,March,2024-Q1,London,United Kingdom,Humaira.Quinn@example.com,London,United Kingdom,Donald.Stone@example.com
+908,772,48.43,2024-03-11,2024,March,2024-Q1,Los Angeles,USA,Nataniel.Glenn@example.com,San Diego,USA,Rajan.Dickson@example.com
+499,375,39.65,2024-03-14,2024,March,2024-Q1,New York,USA,Harris.Mack@example.com,New York,USA,Brandon.Rangel@example.com
+59,848,73.76,2024-03-15,2024,March,2024-Q1,London,United Kingdom,Phoebe.Weiss@example.com,Los Angeles,USA,Charis.Bray@example.com
+379,874,34.79,2024-03-15,2024,March,2024-Q1,Paris, France,Leanne.Cordova@example.com,Montreal,Canada,Alasdair.Mckinney@example.com
+191,929,5.41,2024-03-16,2024,March,2024-Q1,Chicago,USA,Damon.Bullock@example.com,Chicago,USA,Alannah.Perkins@example.com
+543,523,74.24,2024-03-16,2024,March,2024-Q1,Toronto,Canada,Esme.Krueger@example.com,London,United Kingdom,Ameera.Kirby@example.com
+712,482,42.82,2024-03-18,2024,March,2024-Q1,Toronto,Canada,Bronte.Mendoza@example.com,Toronto,Canada,Ahmad.Patrick@example.com
+59,791,101.69,2024-03-21,2024,March,2024-Q1,London,United Kingdom,Phoebe.Weiss@example.com,London,United Kingdom,Aoife.Davidson@example.com
+888,261,33.14,2024-03-23,2024,March,2024-Q1,San Diego,USA,Liana.Baldwin@example.com,Barcelona, Spain,Dulcie.Melendez@example.com
+58,538,5.95,2024-03-24,2024,March,2024-Q1,Los Angeles,USA,Orlando.Pitts@example.com,Los Angeles,USA,Tristan.Valdez@example.com
+54,88,1.0,2024-03-24,2024,March,2024-Q1,New York,USA,Bethany.Santana@example.com,New York,USA,Humza.Velez@example.com
+936,930,15.93,2024-03-25,2024,March,2024-Q1,San Diego,USA,Ted.Wiggins@example.com,San Francisco,USA,Christina.Mays@example.com
+827,436,0.84,2024-03-26,2024,March,2024-Q1,Los Angeles,USA,Laurence.Graves@example.com,San Francisco,USA,Alan.Burton@example.com
+360,184,25.4,2024-03-26,2024,March,2024-Q1,Paris, France,Judy.Clayton@example.com,New York,USA,David.Bridges@example.com
+976,947,11.42,2024-03-31,2024,March,2024-Q1,San Diego,USA,Marnie.Mayo@example.com,San Diego,USA,Isra.Burgess@example.com
+671,54,62.11,2024-03-31,2024,March,2024-Q1,New York,USA,Alexander.Terry@example.com,New York,USA,Bethany.Santana@example.com
+71,947,62.0,2024-04-01,2024,April,2024-Q2,London,United Kingdom,Ilyas.Dunlap@example.com,San Diego,USA,Isra.Burgess@example.com
+966,958,1.13,2024-04-02,2024,April,2024-Q2,Los Angeles,USA,Marjorie.Munoz@example.com,Los Angeles,USA,Luna.Fowler@example.com
+358,389,58.16,2024-04-05,2024,April,2024-Q2,Barcelona, Spain,Sadie.Hammond@example.com,London,United Kingdom,Levi.Hoffman@example.com
+358,96,30.66,2024-04-06,2024,April,2024-Q2,Barcelona, Spain,Sadie.Hammond@example.com,New York,USA,Nadia.Neal@example.com
+890,161,17.81,2024-04-07,2024,April,2024-Q2,Los Angeles,USA,Ahmad.Landry@example.com,Los Angeles,USA,Eliza.Gordon@example.com
+879,657,13.23,2024-04-08,2024,April,2024-Q2,New York,USA,Lucy.Fuentes@example.com,New York,USA,Abu.Delacruz@example.com
+800,923,42.19,2024-04-08,2024,April,2024-Q2,Montreal,Canada,Olivier.Thornton@example.com,Montreal,Canada,Russell.Long@example.com
+895,311,68.82,2024-04-10,2024,April,2024-Q2,San Francisco,USA,Kamil.Guzman@example.com,San Diego,USA,Mariam.Campos@example.com
+211,505,71.72,2024-04-10,2024,April,2024-Q2,Chicago,USA,Gerard.Francis@example.com,London,United Kingdom,Bessie.Conley@example.com
+503,173,17.54,2024-04-11,2024,April,2024-Q2,London,United Kingdom,Jim.Moses@example.com,Barcelona, Spain,Enya.Hernandez@example.com
+137,923,4.46,2024-04-12,2024,April,2024-Q2,San Diego,USA,India.Simmons@example.com,Montreal,Canada,Russell.Long@example.com
+783,764,50.81,2024-04-14,2024,April,2024-Q2,New York,USA,Saira.Lewis@example.com,New York,USA,Cecily.Escobar@example.com
+142,427,111.03,2024-04-14,2024,April,2024-Q2,Barcelona, Spain,Everly.Fuentes@example.com,Paris, France,Lola.Vaughan@example.com
+425,271,87.05,2024-04-14,2024,April,2024-Q2,San Francisco,USA,Ines.Davis@example.com,Paris, France,Princess.Schneider@example.com
+2,899,75.15,2024-04-15,2024,April,2024-Q2,Los Angeles,USA,Arabella.Knox@example.com,San Francisco,USA,Frankie.Jenkins@example.com
+806,439,7.09,2024-04-17,2024,April,2024-Q2,Montreal,Canada,Miriam.Stuart@example.com,Montreal,Canada,Leona.Daugherty@example.com
+925,359,86.0,2024-04-18,2024,April,2024-Q2,San Diego,USA,Yasmine.Scott@example.com,San Diego,USA,Jayden.Meyers@example.com
+982,980,9.17,2024-04-23,2024,April,2024-Q2,Toronto,Canada,Myles.Sharpe@example.com,Toronto,Canada,Kacie.Lester@example.com
+924,828,36.36,2024-04-24,2024,April,2024-Q2,San Francisco,USA,Kendra.Francis@example.com,San Diego,USA,Nora.Donaldson@example.com
+961,319,16.42,2024-04-25,2024,April,2024-Q2,Los Angeles,USA,Tobias.Schultz@example.com,Los Angeles,USA,Tess.Short@example.com
+409,607,27.24,2024-04-26,2024,April,2024-Q2,New York,USA,Aleksander.Durham@example.com,New York,USA,Bibi.Roberts@example.com
+487,810,22.6,2024-04-27,2024,April,2024-Q2,San Francisco,USA,Bernard.Moran@example.com,San Francisco,USA,Syed.Mooney@example.com
+78,356,30.48,2024-04-27,2024,April,2024-Q2,London,United Kingdom,Angela.Mcmillan@example.com,Toronto,Canada,Romeo.Martin@example.com
+682,888,82.91,2024-04-29,2024,April,2024-Q2,Los Angeles,USA,Laura.Valdez@example.com,San Diego,USA,Liana.Baldwin@example.com
+463,438,8.8,2024-04-29,2024,April,2024-Q2,San Diego,USA,Tristan.Lambert@example.com,Chicago,USA,Leslie.Harrington@example.com
+924,162,98.0,2024-04-30,2024,April,2024-Q2,San Francisco,USA,Kendra.Francis@example.com,Los Angeles,USA,Martina.Boyle@example.com
