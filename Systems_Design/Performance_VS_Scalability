@@ -2,6 +2,10 @@
 
 A service is *scalable* if it results in increased performance in a manner proportional to resources added. Generally, increasing performance means serving more units of work, but it can also be to handle larger units of work, such as when datasets grow.
 
+*Always identify where the bottleneck is*
+
+Ways to scale vertically: CPU, memory, storage, network, etc.
+
 
 Another way to look at performance vs scalability:
 
@@ -210,3 +214,4 @@ https://www.allthingsdistributed.com/2006/03/a_word_on_scalability.html
 https://www.slideshare.net/slideshow/scalability-availability-stability-patterns/4062682#50
 https://www.cloudflare.com/learning/cdn/glossary/reverse-proxy/
 https://www.youtube.com/watch?v=RlM9AfWf1WU&t=13s
+https://aws.amazon.com/architecture/well-architected/
