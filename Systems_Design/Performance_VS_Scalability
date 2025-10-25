@@ -1,0 +1,217 @@
+# Performance vs Scalability
+
+A service is *scalable* if it results in increased performance in a manner proportional to resources added. Generally, increasing performance means serving more units of work, but it can also be to handle larger units of work, such as when datasets grow.
+
+*Always identify where the bottleneck is*
+
+Ways to scale vertically: CPU, memory, storage, network, etc.
+
+
+Another way to look at performance vs scalability:
+
+    If you have a performance problem, your system is slow for a single user.
+    If you have a scalability problem, your system is fast for a single user but slow under heavy load.
+
+
+Scalability is being able to handle large amounts of users/data/traffic. Performance is about speed.
+
+ A useful analogy is checking out at the supermarket. Let’s say a cashier can checkout one shopper every minute. Assuming no more than one shopper goes to the cashier every minute, then a shopper can checkout in one minute. If two shoppers show up then the total time will be 2 minutes (1m per shopper)
+
+Scalability is making sure that the performance is constant no matter now many people are coming in.
+
+For the systems we build we must carefully inspect along which axis we expect the system to grow, where redundancy is required, and how one should handle heterogeneity in this system, and make sure that architects are aware of which tools they can use for under which conditions, and what the common pitfalls are.
+
+*Always aim for maximum throughput with acceptable latency*
+
+
+## CAP Theorem
+Consistent - Every read receives the most recent write or an error
+Available -  Every request receives a response, without guarantee that it contains the most recent version of the information
+Partitioned -  The system continues to operate despite arbitrary partitioning due to network failures
+
+
+CP - consistency and partition tolerance
+
+Waiting for a response from the partitioned node might result in a timeout error. CP is a good choice if your business needs require atomic reads and writes.
+AP - availability and partition tolerance
+
+Responses return the most readily available version of the data available on any node, which might not be the latest. Writes might take some time to propagate when the partition is resolved.
+
+AP is a good choice if the business needs to allow for eventual consistency or when the system needs to continue working despite external errors.
+
+You can only pick 2 at a time
+
+## Managing Overload
+
+Scale Up? Increase the computing resources of the current system. CPU or GPU to perform requests faster
+Scale Out? Increase the amount of servers that are used to serve user requests. Adding more servers
+
+## Patterns: State
+
+### Partitioning
+Analogy: Cake at the wedding
+
+### HTTP Caching
+Reverse proxies, CDN (Content Delivery Network)
+
+#### Proxies and reverse proxies
+
+Analogy - receptionist at the company headquarters
+
+A reverse proxy is a server that sits in front of web servers and forwards client (e.g. web browser) requests to those web servers. Reverse proxies are typically implemented to help increase security, performance, and reliability.
+
+A forward proxy, often called a proxy, proxy server, or web proxy, is a server that sits in front of a group of client machines. When those computers make requests to sites and services on the Internet, the proxy server intercepts those requests and then communicates with web servers on behalf of those clients, like a middleman.
+
+A reverse proxy is a server that sits in front of one or more web servers, intercepting requests from clients. This is different from a forward proxy, where the proxy sits in front of the clients. With a reverse proxy, when clients send requests to the origin server of a website, those requests are intercepted at the network edge by the reverse proxy server. The reverse proxy server will then send requests to and receive responses from the origin server.
+
+The difference between a forward and reverse proxy is subtle but important. A simplified way to sum it up would be to say that a forward proxy sits in front of a client and ensures that no origin server ever communicates directly with that specific client. On the other hand, a reverse proxy sits in front of an origin server and ensures that no client ever communicates directly with that origin server.
+
+benefits of a reverse proxy:
+
+    Load balancing - A popular website that gets millions of users every day may not be able to handle all of its incoming site traffic with a single origin server. Instead, the site can be distributed among a pool of different servers, all handling requests for the same site. In this case, a reverse proxy can provide a load balancing solution which will distribute the incoming traffic evenly among the different servers to prevent any single server from becoming overloaded. In the event that a server fails completely, other servers can step up to handle the traffic.
+
+    Protection from attacks - With a reverse proxy in place, a web site or service never needs to reveal the IP address of their origin server(s). This makes it much harder for attackers to leverage a targeted attack against them, such as a DDoS attack. Instead the attackers will only be able to target the reverse proxy, such as Cloudflare’s CDN, which will have tighter security and more resources to fend off a cyber attack.
+
+    Global server load balancing (GSLB) - In this form of load balancing, a website can be distributed on several servers around the globe and the reverse proxy will send clients to the server that’s geographically closest to them. This decreases the distances that requests and responses need to travel, minimizing load times.
+
+    Caching - A reverse proxy can also cache content, resulting in faster performance. For example, if a user in Paris visits a reverse-proxied website with web servers in Los Angeles, the user might actually connect to a local reverse proxy server in Paris, which will then have to communicate with an origin server in L.A. The proxy server can then cache (or temporarily save) the response data. Subsequent Parisian users who browse the site will then get the locally cached version from the Parisian reverse proxy server, resulting in much faster performance.
+
+    SSL encryption - Encrypting and decrypting SSL (or TLS) communications for each client can be computationally expensive for an origin server. A reverse proxy can be configured to decrypt all incoming requests and encrypt all outgoing responses, freeing up valuable resources on the origin server.
+Cons: Single point of failure, bandwidth costs, scaling ceiling
+
+
+#### CDN (Content Delivery Network)
+geographically distributed network of servers that cache and serve your content from locations close to your users.
+
+Analogy - having branch offices across the world with the same documents
+
+Cons: costs, Cache invalidation complexity, vendor lock in, less control, Poor for dynamic content:
+
+
+### Service of Record
+#### Relational Databases
+How do we scale RDBMS out?
+Sharding through:
+- Partitioning: data is split out among databases by a partition key. For example: All users A - D, E - G, etc. Trade-off: no redundancy, query complexity, uneven distribution, unable to be ACID
+- Replication: keeping multiple database copies in sync. Trade-off: higher complexity, every server has a full copy, write complexity 
+NoSQL
+
+When do you need ACID?
+ACID (Atomic, Consistent, Isolated, Durable)
+
+Scaling read is hard with RDBMS 
+Scaling writes is almost impossible
+
+Most times we dont need an RDBMS... 
+
+#### NoSQL
+Not Only SQL: key-value, column, document, graph, datastructure databases
+BASE: Basically Available, Soft-stored, Eventually Consistent
+
+### Distributed Caching
+#### Write through
+1. Write to cache
+2. Store in DB
+3. Return to user
+
+#### Write Behind 
+1. Write to cache
+2. Add an event to queue
+3. Return to user
+4. Asynchronously: select and execute event
+
+#### Eviction Policies
+TTL(time to live)
+Bounded FIFO (first in first out)
+Bounded LIFO (last in first out)
+Explicit cache invalidation
+
+#### Replication
+
+#### Peer-To-Peer
+Decentralized, users can come and go as they please
+
+### Data Grids
+Parellel data storage
+- data replication
+- data storage
+- continuos availability
+- data invalidation
+- Fail-over
+- Consistency + Partitioning
+
+### Concurrency
+Analogy: Chef preparing multiple dishes at the same time. Dedicates a bit of time to eahc one to make it seem like its all being done at the same time
+The ability to MANAGE multiple tasks at once
+- Shared State Concurrency
+ - Everyone can access anything anytime
+ - indeterministic
+ - use locks 
+- Message-Passing Concurrency
+ - share nothing
+ - isolated lightweight processes
+ - asynchronous non blocking
+ - no shared state
+- Dataflow concurrency
+ - declarative
+ - no observable, non determinism
+ - data-driven
+ - on-demand, lazy
+- Software Transactional Memory
+ - similar to a database
+ - sees the memory (heap and stack) as a transactional dataset
+
+### Parallelism
+- The ability of a system to PERFORM/EXECUTE multiple tasks at once
+
+
+
+## Practice Questions
+
+You're building a video streaming service like YouTube. A specific video goes viral and suddenly 10 million users are trying to watch it simultaneously. Your current system handles 100K concurrent viewers comfortably with good performance (low latency, smooth playback).
+What changes do you make to handle this 100x increase in traffic? Walk through your approach, distinguishing between performance optimizations vs scalability solutions.
+My approach: We need to use a CDN to serve the video at edge locations quickly and at different qualities for users that do not hae a good connection. Origin servers only need to serve the cache misses. If were still bottlenecked on throughput we would scale the servers horizontally and usee something like AWS S3 for the video files themselves.
+
+What they're looking for: Do you understand that this is primarily a scalability problem, not performance? Can you talk about CDNs, caching layers, horizontal scaling of services? Do you know when vertical scaling (performance) hits limits?
+
+
+You have a dashboard that shows real-time metrics for an e-commerce site. Currently it processes 1,000 events/second with a 2-second latency from event to display.
+Scenario A: Business wants to reduce latency to 200ms but traffic stays at 1,000 events/second.
+- In this I am optimizing for performance (latency). That means I would need stream processing from a service like Kafka Streams or Flink. We would also want to pregaggreagte metrics so they are simple look ups in the dashboard. We also would need to keep the data in memory instead of the disk to avoid constant data retrieval. There is also an area of oppportunity for optimizing database indexes for faster querying.  
+
+Scenario B: Traffic is growing to 100,000 events/second but 2-second latency is acceptable.
+- In this scenario we are optimizing for scalability. I would use load balancers, and horizontal database scaling, specifically partitioning to serve that many events per second. We would have to partition the event by time to support the amount of events. To handle the event queue, using a service 
+How does your architecture differ between these two scenarios? What are you optimizing for in each case?
+
+
+You're designing the home feed for a social media app. Each user follows 500 people on average. When a user opens the app, you need to show them the latest 50 posts from people they follow.
+Currently serving 1 million users with 500ms average feed load time. You need to handle two different problems:
+Problem A: Users complaining that 500ms feels slow. They want sub-100ms load times. User count stays the same.
+My approach: This is a latency problem and we need to optimize for performance. The current system probably hits the database each time a feed is loaded. Instead we should pre compute feeds - when somebody posts we should immediately push it to their followers feeds (fan out on write). Then store these in a cache like Redis. The trade off is more complexity but reads are faster
+
+Problem B: Expanding to 100 million users. 500ms load time is acceptable.
+My approach: Since this is a scalability issue we need to consider that we need multiple read replicas for our databases and it would be worth to partition them by user ID and heavily caching read paths. For users with immense following the fan out on write would not work so we would have to adpat a hybrid approach of fan out on read
+What's your approach for each? Can you solve Problem A and then apply that solution to Problem B, or do they require fundamentally different thinking?
+
+![alt text](image.png)
+
+
+## Key Concepts
+Scalability
+Performance
+Caching
+Message Queues
+Redundancy
+Heterogenity
+ACID
+Partitioning
+Trade-offs
+Availability
+
+## References
+https://blog.professorbeekums.com/performance-vs-scalability/
+https://www.allthingsdistributed.com/2006/03/a_word_on_scalability.html
+https://www.slideshare.net/slideshow/scalability-availability-stability-patterns/4062682#50
+https://www.cloudflare.com/learning/cdn/glossary/reverse-proxy/
+https://www.youtube.com/watch?v=RlM9AfWf1WU&t=13s
+https://aws.amazon.com/architecture/well-architected/
