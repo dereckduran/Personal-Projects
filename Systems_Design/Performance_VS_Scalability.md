@@ -1,5 +1,23 @@
 # Performance vs Scalability
 
+If the system grows in a particular way, what are the options for coping with growth?
+
+Always start woth the current load on the system (different for various apps):
+1. requests per second
+2. read to write ratio
+3. Concurrent users
+
+Once we know the load our systems handles we can take two angles:
+1. when the load parameter is increased and the keeping the system resources unchanged, how does the system performance change?
+2. when the load parameter is increased, how much do we need to increase rhe resources if you want to keep performance unchanged?
+
+Use percentiles to measure performance. Common ones are p50, p95, p99 & p999
+
+Some systems are better than others for scaling. For example, several powerful computers over a large number of small computers.
+Elastic vs manual load.
+
+All factors heavily depend on the type of application. 
+
 A service is *scalable* if it results in increased performance in a manner proportional to resources added. Generally, increasing performance means serving more units of work, but it can also be to handle larger units of work, such as when datasets grow.
 
 *Always identify where the bottleneck is*

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flappy Kiro</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="gameContainer">
+        <div id="menuScreen" class="screen">
+            <h1>Flappy Kiro</h1>
+            <p>Guide Ghosty through the walls!</p>
+            
+            <div id="difficultySelection">
+                <h3>Select Difficulty:</h3>
+                <button class="difficulty-btn" data-difficulty="easy">Easy</button>
+                <button class="difficulty-btn" data-difficulty="medium">Medium</button>
+                <button class="difficulty-btn" data-difficulty="hard">Hard</button>
+            </div>
+            
+            <button id="startGame">Start Game</button>
+            <button id="showLeaderboard">Leaderboard</button>
+        </div>
+
+        <div id="gameScreen" class="screen hidden">
+            <div id="gameInfo">
+                <div id="score">Score: 0</div>
+                <div id="difficulty">Difficulty: Easy</div>
+            </div>
+            <canvas id="gameCanvas" width="800" height="600"></canvas>
+            <div id="instructions">Press SPACEBAR to make Ghosty fly!</div>
+        </div>
+
+        <div id="gameOverScreen" class="screen hidden">
+            <h2>Game Over!</h2>
+            <div id="finalScore">Score: 0</div>
+            <div id="finalDifficulty">Difficulty: Easy</div>
+            
+            <div id="scoreSubmission">
+                <input type="text" id="usernameInput" placeholder="Enter username" maxlength="20">
+                <button id="submitScore">Submit Score</button>
+            </div>
+            
+            <button id="playAgain">Play Again</button>
+            <button id="backToMenu">Back to Menu</button>
+        </div>
+
+        <div id="leaderboardScreen" class="screen hidden">
+            <h2>Leaderboard</h2>
+            <div id="leaderboardFilter">
+                <button class="filter-btn active" data-difficulty="all">All</button>
+                <button class="filter-btn" data-difficulty="easy">Easy</button>
+                <button class="filter-btn" data-difficulty="medium">Medium</button>
+                <button class="filter-btn" data-difficulty="hard">Hard</button>
+            </div>
+            <div id="leaderboardList"></div>
+            <button id="backFromLeaderboard">Back to Menu</button>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/@opentelemetry/api@1.6.0/build/esm/index.js" type="module"></script>
+    <script src="telemetry.js"></script>
+    <script src="game.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
