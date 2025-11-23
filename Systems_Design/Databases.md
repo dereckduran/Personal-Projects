@@ -163,6 +163,13 @@ full text search
 #### HASH Index
 Only handles equality operators 
 used to locate tuples
+Advantages within the database:
+- concurrency and crash handling are much simpler if segment files are append-only or immutable
+- merging segments avoids the problem of data files getting fragmented over time
+- appending and segment merging are sequential write operations which are much faster than random writes
+Disadvantages
+- the hash table must fit in memory, it is difficult to make it perform well  due to hash collisions and requires a lot of random access I/O
+- range queries are not efficient
 
 #### BRIN Index
 Block Range Index
